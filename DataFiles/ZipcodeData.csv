@@ -1,0 +1,1259 @@
+,Incident Date,State,City Or County,Address,# Killed,# Injured,Zipcode
+0,2014-12-29,LA,New Orleans,Poydras and Bolivar,0,4,70113
+1,2014-12-27,CA,Los Angeles,8800 block of South Figueroa Street,1,3,90003
+2,2014-12-27,CA,Sacramento,4000 block of May Street,0,4,95838
+3,2014-12-26,IL,East St. Louis,2500 block of Summit Avenue,1,3,62205
+4,2014-12-24,MO,Saint Louis,18th and Pine,1,3,63103
+5,2014-12-23,KY,Winchester,260 Oxford Drive,1,3,40391
+7,2014-12-22,NY,Webster,191 Lake Road,4,2,14580
+8,2014-12-22,IL,Chicago,5700 block of South Green Street,0,5,60621
+9,2014-12-21,FL,Sarasota,4034 N Washington Blvd,2,2,34234
+10,2014-12-21,MS,Waynesboro,Central Avenue,1,4,39367
+11,2014-12-21,IL,Calumet City,600 block of Escanba,1,8,60409
+12,2014-12-20,IL,Rockford,3200 block of Montrose Avenue,4,0,61101
+13,2014-12-16,NJ,Elizabeth,Anna Street,0,4,07201
+14,2014-12-15,PA,Lansdale,100 block of West 5th St,7,0,19446
+15,2014-12-14,FL,Miami,1311 Northwest 2nd Avenue,1,4,33136
+16,2014-12-13,FL,Tampa,810 E. Skagway Ave.,0,5,33604
+17,2014-12-12,OR,Portland,717 North Killingsworth Court,0,4,97217
+18,2014-12-07,IN,South Bend,16000 block of Roosevelt Road,0,4,46614
+19,2014-12-02,MO,Saint Louis,6000 block of Virginia Avenue,1,5,63111
+20,2014-12-02,VA,Newport News,6128 Jefferson Ave ,0,5,23605
+21,2014-11-30,NY,Brooklyn,375 Remsen Avenue,0,4,11212
+22,2014-11-30,TN,Chattanooga,2412 East 13th Street ,0,5,37404
+23,2014-11-29,NJ,Newark,348 S Orange Ave,1,3,07103
+24,2014-11-29,GA,Atlanta,1600 block of Richmond Avenue,3,2,30315
+25,2014-11-28,TN,Memphis,1849 East Brooks Road ,0,4,38116
+26,2014-11-27,TX,Georgetown,Pvt Rd 934,2,3,78626
+27,2014-11-26,CA,San Francisco,Mission and 13th streets,0,6,94103
+29,2014-11-23,CO,Denver,Federal Boulevard and 16th Avenue,1,4,80204
+30,2014-11-22,OH,Cleveland,1443 E 92nd St,4,1,44106
+31,2014-11-22,SD,Sisseton,Fourth Avenue,4,1,57262
+32,2014-11-22,OH,Springfield,Clifton Avenue and Rice Street,1,3,45505
+33,2014-11-21,PA,Pittsburgh,600 block of Miller Avenue,0,6,15122
+34,2014-11-19,IL,Chicago,700 block of North St. Louis Avenue,1,3,60624
+36,2014-11-16,OH,Akron,1891 E Market St,1,4,44305
+37,2014-11-16,TX,El Paso,115 S. Durango,0,6,79901
+38,2014-11-15,MO,Springfield,2555 N. Glenstone,4,0,65803
+39,2014-11-15,FL,Miami,NW 55th and 12th,1,3,33142
+40,2014-11-08,CA,Pomona,499 E. Arrow Highway,0,5,91767
+41,2014-11-07,CA,Compton,136th Street ,0,4,90222
+42,2014-11-07,CA,Los Angeles,East 126th Street and North Compton Avenue,0,4,90222
+43,2014-11-05,CA,San Francisco,1100 block of Alabama Street ,0,4,94110
+44,2014-10-29,TN,Memphis,Yale Road and Ramill Road,0,5,38128
+45,2014-10-26,KY,Cadiz,1410 Old Dover Road,4,0,42211
+46,2014-10-24,WA,Marysville,5611 108th St NE,5,1,98271
+47,2014-10-18,NY,Queens,33-02 Queens Blvd,0,4,11101
+48,2014-10-18,SC,Graniteville,192 Breezy Hill Road,1,3,29829
+50,2014-10-16,MI,Detroit,Mogul Street,1,3,48224
+51,2014-10-14,GA,Peachtree Corners,6505 Bannor Lane,3,2,30092
+52,2014-10-13,GA,Atlanta,85 Mount Zion Road,0,4,30354
+53,2014-10-12,CA,Stockton,1100 block of East March Lane,3,1,95210
+54,2014-10-12,GA,Atlanta,Arthur Langford Jr Place,1,3,30315
+55,2014-10-11,NY,Utica,222 Bleecker Street,0,5,13501
+57,2014-10-08,NY,Guilderland,1846 Western Ave,4,0,12203
+58,2014-10-05,FL,Jacksonville,7300 block of Linda Drive,3,1,32208
+59,2014-10-05,MI,Detroit,East 7 Mile Road and Sherwood Street,1,5,48234
+60,2014-10-04,TN,Memphis,1400 block of Gherald Street,2,2,38108
+61,2014-10-04,CA,Pomona,1925 West Holt Avenue ,0,4,91768
+62,2014-09-29,SC,Walterboro,29 Sandy Dam Lane,1,7,29488
+63,2014-09-29,CA,Fresno,2300 block of West Fountain Way ,0,4,93705
+64,2014-09-28,PA,Philadelphia,2800 block of Hope Street,0,4,19133
+65,2014-09-28,FL,Miami,NW 7th Ave and NW 64th Street,0,15,33150
+66,2014-09-27,MO,Saint Louis,2000 block East John Avenue,0,5,63107
+67,2014-09-26,SC,Darlington County,600 block of Turner Road,1,4,29501
+68,2014-09-21,OH,East Liverpool,440 First St,0,4,43920
+69,2014-09-20,MS,Batesville,8297 Curtis Rd,2,2,38606
+70,2014-09-19,NY,Queens,32-14 106th St,0,4,11369
+72,2014-09-15,LA,New Orleans,Chef Menteur Highway and Dale Street,0,5,70126
+73,2014-09-14,TX,Flour Bluff,229 Naval Air Station Drive,3,1,78418
+74,2014-09-14,AK,Anchorage,225 E Fifth,0,6,99501
+75,2014-09-11,MI,Detroit,14000 block of Patton,1,7,48223
+76,2014-09-06,FL,Orlando,2015 Orange Blossom Trail,0,4,32804
+77,2014-09-06,GA,Macon,576 Poplar Street,0,5,31201
+78,2014-09-04,MI,Flint,2400 block of Martin Luther King Boulevard,0,5,48505
+79,2014-09-03,CA,Los Angeles,East 27th and Stanford ,0,6,90011
+80,2014-09-02,CA,Highland,25000 block of Fifth Street ,0,5,92410
+81,2014-09-02,MS,Jackson,3622 Medgar Evers Boulevard,2,3,39213
+82,2014-08-31,CA,Livermore,200 block of South Q Street ,0,5,94550
+83,2014-08-29,FL,Brooksville,820 Peach St,3,1,34601
+84,2014-08-27,MI,Detroit,16600 block of Edmore,1,3,48205
+85,2014-08-24,IL,Chicago,8300 block of South Halsted Street,1,3,60620
+86,2014-08-24,GA,Augusta,1013 Carrie Street,1,3,30901
+87,2014-08-24,CA,San Fernando,1400 block of Celis Street ,3,4,91340
+88,2014-08-20,TN,Memphis,1400 block of Briarcrest Lane,0,5,38127
+89,2014-08-18,LA,Saint Martinville,Main and Hyacinth streets,0,4,70582
+90,2014-08-17,NY,Queens,153-38 118th Ave,0,4,11434
+91,2014-08-17,MA,Boston,Edinboro Street,0,4,02111
+92,2014-08-17,CA,East Palo Alto,Purdue Street and Georgetown Avenue,1,3,94303
+93,2014-08-17,NV,Las Vegas,Owens Avenue and H Street,0,4,89106
+94,2014-08-16,NJ,Plainfield,West 3rd Street and Monroe Avenue,1,3,07063
+95,2014-08-16,UT,Salt Lake City,122 Pierpont Avenue,0,6,84101
+96,2014-08-14,TN,Memphis,797 Pope Street,1,3,38112
+97,2014-08-13,TN,Clarksville,Treeland Drive,0,4,37040
+100,2014-08-12,NY,Buffalo,Oakmont Avenue,1,3,14215
+101,2014-08-10,LA,New Orleans,5400 block of Burgundy St,2,5,70117
+103,2014-08-10,CA,Moreno Valley,16300 block of Heather Glen Road ,0,7,92551
+104,2014-08-10,DC,Washington,N Street SW,0,6,20024
+105,2014-08-09,MN,Minneapolis,400 3rd Ave N,1,8,55401
+106,2014-08-08,WI,Milwaukee,3000 block of N. 28th Street ,0,4,53210
+107,2014-08-08,DC,Washington,Second Street and Todd Place NE,0,4,20002
+108,2014-08-08,NM,Albuquerque,3426 Vassar NE,1,3,87107
+109,2014-08-06,CA,Bakersfield,1700 block of Quincy Street ,3,1,93305
+110,2014-08-04,GA,Atlanta,1100 block of Joseph E. Boone Boulevard NW,0,5,30314
+111,2014-08-03,TX,Humble,3403 FM 1960,0,7,77338
+112,2014-08-03,MO,Saint Louis,5200 block of Thekla ,0,5,63115
+113,2014-08-03,VA,Culpeper,4400 block of Rixeyville Road,5,0,22724
+114,2014-08-03,TN,Columbia,East 9th Street and Bridge Street,0,5,38401
+115,2014-08-02,TX,Dallas,5125 Wynell Street,3,1,75241
+117,2014-08-02,PA,Pittsburgh,Penn Avenue and 29th Street,1,5,15201
+118,2014-08-01,PA,Philadelphia,1500 block of South Etting Street,1,3,19146
+119,2014-07-30,NC,Hope Mills,926 Bramblegate Rd,2,3,28348
+120,2014-07-28,PA,Philadelphia,4900 block of North Front Street,1,4,19120
+121,2014-07-27,MO,Saint Louis,2000 block of East John Avenue,0,5,63107
+123,2014-07-26,ME,Saco,35 Water Street,5,0,04072
+124,2014-07-26,GA,Sylvester,Royal Street,0,8,31791
+125,2014-07-25,IL,Chicago,700 South California Avenue,1,6,60612
+126,2014-07-23,PA,Braddock,700 block of Hickory St,0,4,15104
+127,2014-07-21,NJ,Irvington,36 Welland Avenue,0,6,07111
+128,2014-07-21,TN,Memphis,300 block of Foote Park Lane,0,4,38126
+129,2014-07-20,IL,East Saint Louis,5103 block of Bunkum Rd,1,3,62204
+130,2014-07-20,NV,Las Vegas,Rancho Drive 3400 block ,1,3,89130
+131,2014-07-19,IL,Chicago,1300 North Mason Avenue,0,4,60651
+133,2014-07-13,WA,Skyway,12600 Renton Avenue South ,0,5,98178
+134,2014-07-13,CT,Stamford,84 West Park Place,0,5,06901
+135,2014-07-13,DC,Washington,1700 block of Lincoln Road NE,0,4,20002
+136,2014-07-12,CA,Pasadena,1700 block of Summit Avenue,3,2,91103
+137,2014-07-11,IL,Chicago,5200 West Quincy Street,1,3,60644
+138,2014-07-09,TX,Spring,711 Leaflet Ln,6,1,77388
+139,2014-07-08,RI,Providence,35 March Street,0,5,02908
+141,2014-07-07,CA,San Bernardino,312  E Baseline Street ,1,4,92410
+142,2014-07-06,FL,Miami,NW 20th Ave and NW 62nd St,2,2,33147
+143,2014-07-06,MO,Saint Louis,4600 block of Natural Bridge Avenue,0,4,63115
+144,2014-07-06,NY,Buffalo,100 block of Erb Street,0,4,14215
+145,2014-07-05,TX,Houston,1700 Almeda-Genoa,0,6,77047
+146,2014-07-05,VA,Norfolk,861 W. 36th Street,0,7,23508
+147,2014-07-05,OR,Portland,333 SE 122ND Ave,1,4,97233
+148,2014-07-05,IN,Indianapolis,Broad Ripple Avenue,0,7,46220
+149,2014-07-05,IL,Centreville,4700 Piggott Avenue,0,5,62207
+150,2014-07-04,VA,Norfolk,1722 Thurgood Street,0,5,23523
+151,2014-07-02,PA,Chester,1400 block of West Congress Street,0,5,19013
+152,2014-06-30,KY,Lexington,Scottsdale Circle,1,3,40511
+153,2014-06-29,LA,New Orleans,700 block of Bourbon St,1,9,70116
+154,2014-06-29,MO,Saint Louis,2800 block of Dayton,0,4,63106
+155,2014-06-29,CA,Los Angeles,1100 block of North Vermont Avenue,1,5,90029
+156,2014-06-28,CA,Antioch,5500 Cedar Point Way,0,7,94531
+157,2014-06-28,NY,Manhattan,Fifth Avenue and West 139th Street,0,4,10037
+158,2014-06-27,CA,San Diego,1600 block of Cathy Street,1,3,92154
+159,2014-06-26,WI,Milwaukee,24th and Locust,0,5,53206
+160,2014-06-26,MI,Detroit,Grand St,2,2,48238
+161,2014-06-25,MA,Lowell,Midland Street,0,5,01851
+162,2014-06-24,FL,Miami,Northwest 12th Avenue and 65th Street,2,7,33147
+163,2014-06-22,CA,Windsor,Windsor Avenue,1,3,95492
+164,2014-06-21,DC,Washington,Florida Avenue and U Street NW,0,4,20009
+165,2014-06-21,TN,Memphis,2119 East Alcy Road,0,5,38114
+166,2014-06-20,MD,Seat Pleasant,6600 block of Greig Street,0,4,20743
+167,2014-06-15,IN,Kokomo,5100 Clinton Drive,0,4,46902
+168,2014-06-15,IL,Park Forest,200 Berry Street,0,4,60466
+169,2014-06-13,CA,Los Angeles,8600 block of South Figueroa Street,3,1,90003
+170,2014-06-09,NJ,Paterson,Rosa Parks Boulevard and Godwin Avenue,0,6,07501
+171,2014-06-08,AL,Opp,611 Hardin Street,1,4,36467
+173,2014-06-07,MI,Oak Park,10811 W. Ten Mile Rd.,1,3,48237
+174,2014-06-04,IL,Chicago,4900 West West End Avenue,1,3,60644
+176,2014-06-02,IL,Chicago,2660 E. 79th St,0,7,60649
+177,2014-06-01,IL,Chicago,West Ferdinand Street and North Lavergne Avenue ,1,5,60644
+178,2014-06-01,CA,Sacramento,6500 46th Street,0,4,95823
+179,2014-05-31,CA,San Bernardino,800 block of West Victoria St,1,3,92410
+180,2014-05-25,OH,Toledo,2100 block of Joffre Avenue,1,3,43607
+182,2014-05-24,SC,Myrtle Beach,Ocean Boulevard near First Avenue North,3,1,29582
+183,2014-05-23,CA,Goleta (Isla Vista),840 Embarcadero Del Norte,4,8,93117
+184,2014-05-23,LA,New Orleans,6200 block of Eads Street,1,7,70122
+185,2014-05-23,CA,Bellflower,9541 Flower Street,2,2,90706
+186,2014-05-21,TX,Dallas,4500 block of Village Fair Drive,1,3,75224
+187,2014-05-18,OH,Sandusky,1643 Cleveland Rd,0,7,44870
+188,2014-05-17,CA,Coachella,84000 block of Pedro Drive,1,3,92236
+189,2014-05-17,DC,Washington,2200 block of Adams Place NE,0,5,20018
+190,2014-05-13,GA,Atlanta,Panther Trail and Childress Drive,0,5,30311
+191,2014-05-12,IL,Chicago,3400 West 24th Street,0,4,60623
+193,2014-05-11,TN,Memphis,2517 Shasta,0,7,38108
+194,2014-05-10,GA,Stone Mountain,1100 To Lani Farm Road,1,3,30083
+196,2014-05-10,GA,Decatur,Shamrock Drive ,2,3,30032
+197,2014-05-04,IL,Chicago,500 West Erie Street,1,3,60654
+198,2014-05-04,CO,Wheat Ridge,12100 W 44th,0,4,80033
+199,2014-05-03,AR,Jonesboro,2201 Moore Rd,4,4,72401
+200,2014-04-30,IL,Chicago,7200 South Phillips Avenue,0,4,60649
+201,2014-04-29,GA,Kennesaw,1675 Airport Road,1,6,30144
+202,2014-04-27,NY,Troy,Fourth Street,0,5,12180
+203,2014-04-25,TN,Memphis,2000 Chelsea Avenue,2,3,38108
+204,2014-04-22,CA,Los Angeles,6419 Brynhurst Avenue,1,3,90043
+205,2014-04-20,IL,Montgomery,1300 block of Jackson St,0,6,60538
+206,2014-04-20,FL,Tampa,2902 N. 32nd St.,2,2,33605
+207,2014-04-20,IL,Chicago,6600 South Michigan Ave,0,5,60637
+208,2014-04-14,DC,Washington,1500 block of 19th Street,0,4,66968
+209,2014-04-12,LA,New Orleans,2100 block of Pauger Street,1,3,70116
+210,2014-04-11,IN,Richmond,North 15th and H Streets,0,4,47374
+211,2014-04-09,TN,Lookout Valley,Kellys Ferry Road and Kellys Ferry Place,3,1,37419
+212,2014-04-09,IL,Rockford,300 North Sunset,0,4,61101
+213,2014-04-07,LA,New Orleans,500 block of South Alexander Street,0,4,70119
+214,2014-04-06,MA,Springfield,90 Worthington St.,0,4,01103
+215,2014-04-06,OK,Oklahoma City,Northwest 29th Street and Portland Avenue,0,4,73107
+216,2014-04-05,IL,Chicago,4300 W Wilcox Street,1,5,60624
+217,2014-04-05,AZ,Phoenix,5400 block of W Palm Ln,1,3,85035
+218,2014-04-05,CA,Fairfield,Orchid Street ,0,4,94533
+219,2014-04-02,TX,Fort Hood,Motor Pool Road and Tank Destroyer Boulevard,4,16,76544
+221,2014-03-30,NC,Charlotte,4300 Sunset Road,0,5,28216
+222,2014-03-23,TX,Arlington,2700 Majesty Drive,1,3,76011
+223,2014-03-23,CA,Long Beach,601 Long Beach Boulevard,1,3,90802
+224,2014-03-23,CA,San Francisco,Turk and Taylor,0,7,94102
+225,2014-03-21,SC,North Charleston,7550 Dorchester Road,0,4,29418
+227,2014-03-16,GA,Waynesboro,4960 Highway 80 West ,0,4,30830
+228,2014-03-14,NY,Brooklyn,S. Second and Roebling Sts,0,4,11211
+229,2014-03-09,OH,Fremont,531 W State St,3,1,43420
+230,2014-03-09,TX,Austin, 4900 block of West Race Avenue,0,6,78741
+231,2014-03-08,IL,Chicago,4900 West Race Ave,0,6,60644
+232,2014-03-08,CA,Richmond,1600 block of First Street,1,3,94801
+233,2014-03-05,SC,Pelzer,Law Street,3,2,29669
+235,2014-03-01,MI,Detroit,7800 Gratiot Av.,0,4,48213
+236,2014-02-25,VA,Glade Spring,Graceland Lane,5,1,24340
+237,2014-02-22,CA,Wilmington,1200 block of W Papeete St,0,4,90744
+238,2014-02-20,IN,Indianapolis,3400 block of South Parker,4,0,46237
+239,2014-02-20,CA,Alturas,300 W 1st St,4,2,15419
+240,2014-02-16,TX,Fort Worth, 115 NW 25th St.,1,4,76164
+241,2014-02-16,FL,Orange County,4500 block of Riviera Shores ,1,6,92109
+242,2014-02-16,FL,Jacksonville,1187 S. Edgewood Ave.,1,4,32205
+243,2014-02-16,TX,Dallas,2600 block of South Harwood Street,1,7,75215
+244,2014-02-16,IN,Fort Wayne,Lafayette Street and East Tillman Road,0,5,46816
+245,2014-02-15,NV,Las Vegas,Sahara and Maryland ,0,5,89109
+246,2014-02-12,IN,Gary,2220 block of Broadway,0,5,46407
+247,2014-02-12,CA,Oakland,37th and International ,1,3,94601
+249,2014-02-07,FL,Miami,Northwest 41st Street and 9th Avenue ,0,5,33126
+250,2014-02-06,LA,New Orleans,4600 block of Downman Road,0,4,70126
+251,2014-02-05,IL,Chicago,6740 N Clark St,1,3,60626
+252,2014-02-03,IN,Franklin,2100 block of Bridlewood Dr,3,2,46131
+253,2014-01-27,NC,Rocky Mount,821 Word Plaza,0,4,27804
+254,2014-01-27,WA,Seattle,2nd Avenue South and South Main Street,1,4,98104
+255,2014-01-25,IL,Chicago,S. Union Av and W. 51st St,1,4,60609
+256,2014-01-25,FL,Belle Glade,600 block of Covenant Drive,0,4,33430
+258,2014-01-20,VA,Manassas,8509 Rixlew Ln,0,4,20109
+259,2014-01-16,OK,Ardmore,H St NE and Martin Luther King Blvd,2,5,73401
+260,2014-01-16,UT,Spanish Fork,37 N. 630 West,5,0,84660
+261,2014-01-14,CA,Los Angeles,West 86th Street,0,4,90045
+262,2014-01-13,MI,Detroit,800 block of Calvert St,0,4,48202
+263,2014-01-12,LA,Tallulah,3600 block of Highway 80 W,0,6,39209
+265,2014-01-12,IL,Elgin,300 block of North Street,0,5,60120
+266,2014-01-03,NY,Queens,Farmers Boulevard and 133rd Avenue,1,3,11434
+267,2014-01-01,VA,Norfolk,Rockingham Street and Berkley Avenue Extended,2,2,23523
+268,2015-12-31,LA,New Orleans,1900 block of Amelia Street,0,6,70115
+270,2015-12-26,PA,Philadelphia,4210 Macalester St,0,4,19124
+271,2015-12-25,FL,Jacksonville,Franklin and Odessa,0,4,32206
+272,2015-12-25,AL,Mobile,785 Schillinger Rd S,0,4,36695
+273,2015-12-21,CA,San Leandro,14600 block of East 14th Street,0,4,94578
+274,2015-12-20,FL,Golden Glades,NE 166th St and NE 7th Ave,0,4,33162
+275,2015-12-20,NC,Wilmington,11th and Castle Street,1,4,28401
+276,2015-12-20,FL,Miami (Goulds),21630 Southwest 120th Avenue,1,4,33170
+277,2015-12-13,CA,Los Angeles,5550 S. Flower Street,1,3,90007
+278,2015-12-13,CA,Huntington Beach,17000 block of Keelson Lane,0,4,92647
+279,2015-12-12,GA,Savannah,Whitaker Street,0,4,31401
+280,2015-12-12,IL,Lovejoy (Brooklyn),307 Jefferson St,1,3,62059
+281,2015-12-11,MD,Baltimore,5100 block of Park Heights Avenue,1,3,21215
+282,2015-12-11,PA,Pittsburgh (Mount Oliver),200 block of  Brownsville Road,0,4,15210
+283,2015-12-08,OH,Cincinnati (Fairmount),2300 block of Baltimore Avenue,1,3,45225
+284,2015-12-06,LA,Raceland,Market Street,1,3,70394
+285,2015-12-06,NE,Omaha,North 108th Street and Military Road,2,3,68164
+286,2015-12-02,CA,San Bernardino,1365 South Waterman Avenue,16,19,92408
+287,2015-12-02,GA,Savannah,100 block of West 33rd Street,1,3,31401
+288,2015-11-29,IL,Kankakee,648 E Court St,0,5,60901
+289,2015-11-27,CO,Colorado Springs,3480 Centennial Blvd,3,9,80907
+290,2015-11-27,CA,Sacramento,7900 block of Florin Road,2,2,95828
+291,2015-11-24,SC,Horry (county),1321 Colletta Court,0,4,29527
+292,2015-11-23,OH,Columbus,90 block of S. Terrace Avenue,4,1,43204
+294,2015-11-22,TX,Brownsville,1800 block of FM 802,0,4,78521
+295,2015-11-22,WA,Seattle,Broadway and Pike,0,4,98122
+296,2015-11-22,NY,Newburgh,203 Broadway,0,5,12550
+297,2015-11-22,SC,North Charleston,Park Circle,1,3,29405
+298,2015-11-22,IL,Chicago,4100 block of West Roosevelt,0,4,60624
+299,2015-11-22,LA,New Orleans,1900 block of Gallier Street,0,17,70117
+300,2015-11-21,MD,Baltimore,Stricker and School,1,3,21217
+301,2015-11-20,PA,Pittsburgh,Prospect Drive,1,3,15229
+302,2015-11-18,CA,Fresno,California Avenue and Martin Luther King Jr. Boulevard,0,5,93706
+303,2015-11-16,AL,Cedar Bluff,1460 County Rd 664,3,1,35959
+305,2015-11-15,PA,Philadelphia,5600 block of Blakemore Street,0,4,19138
+306,2015-11-14,PA,Johnstown,1159 Main St,0,4,15909
+307,2015-11-13,FL,Jacksonville,1300 block of South Shirley Oaks Drive,4,1,32218
+308,2015-11-09,IN,Indianapolis,400 block of North Beville Ave,2,2,46201
+309,2015-11-08,IA,Des Moines,4397 NW 6th Drive,1,3,50313
+310,2015-11-08,MI,Warren,13859 8 Mile Road,0,4,48089
+311,2015-11-07,CO,Denver,Bayaud and Bannock,1,3,80223
+312,2015-11-06,CA,Bakersfield,1000 block of Feliz Drive,0,4,93307
+313,2015-11-03,FL,Jacksonville,Ella Street and Kings Road,2,3,32209
+314,2015-11-02,SC,Pendleton,2217 Refuge Road,4,0,29670
+315,2015-10-28,LA,Houma,400 block of Morgan Street,1,3,70360
+316,2015-10-27,TX,Fort Worth,1700 block of Southcrest Drive,0,5,76115
+317,2015-10-26,IN,Evansville,711 E Virginia St,0,5,47711
+318,2015-10-25,NC,Four Oaks,2339 Stricklands Crossroads Road,0,5,27524
+319,2015-10-25,AZ,Phoenix,Seventh Street and Broadway,1,4,85041
+320,2015-10-25,DC,Washington,4300 block of Wheeler Road SE,0,5,20032
+321,2015-10-24,SC,Bamberg,682 Dixie Ave.,0,4,29003
+322,2015-10-22,TN,Nashville,3500 John A. Merritt Blvd,1,3,37209
+323,2015-10-19,IL,Calumet City,300 Campbell Avenue,0,6,60409
+324,2015-10-18,LA,New Orleans,2600 block of Caffin Avenue,0,4,70117
+325,2015-10-17,IN,Elkhart,160 Easy Shopping Place,0,4,46516
+326,2015-10-17,FL,Fort Myers,2224 First St,1,4,33901
+327,2015-10-12,GA,Decatur,4731 Glenwood Road,0,4,30035
+328,2015-10-10,TN,Memphis,6135 Mount Moriah Road,0,6,38115
+329,2015-10-10,NC,Charlotte,1900 block of West Boulevard,0,4,28208
+330,2015-10-10,IL,Peoria,2405 N Flora,1,3,61604
+331,2015-10-09,AZ,Flagstaff,216 E Mountain View Dr,1,3,86001
+332,2015-10-06,MD,Baltimore,300 block of North Payson Street,0,5,21223
+333,2015-10-02,MD,Baltimore,5400 Reisterstown Road,1,4,21215
+334,2015-10-01,OR,Roseburg,1140 Umpqua College Rd,10,9,97470
+335,2015-09-28,OH,Cincinnati (Evanston),1800 block of Hewitt Avenue,0,5,45207
+336,2015-09-28,IL,Chicago,300 block of West 42nd Street,3,2,60609
+337,2015-09-28,IL,Chicago,5300 block of South Aberdeen Street,2,3,60609
+338,2015-09-28,OH,Dayton,1921 Oakridge,0,4,45417
+339,2015-09-27,GA,Greenville,1140 Hill Haven Road,0,10,30222
+340,2015-09-27,IL,Chicago,5200 block of South Justine,0,4,60609
+341,2015-09-27,MO,Kansas City,1700 E. 18th St.,0,4,64108
+342,2015-09-25,IL,Danville,1300 block of May Street,0,4,61832
+343,2015-09-24,IL,Chicago,5100 block of South Morgan Street,0,5,60609
+344,2015-09-23,LA,Shreveport,2900 block of Peach Street,0,5,71107
+345,2015-09-23,FL,Fort Myers,Dale Street and Veronica S. Shoemaker Boulevard,0,4,33916
+346,2015-09-23,GA,Norcross,1300 block of Reddington Lane,1,3,30093
+347,2015-09-20,PA,Philadelphia,900 block of Pratt Street,1,3,19124
+349,2015-09-20,OK,Tulsa,Pine and Yale,0,6,74115
+350,2015-09-19,IN,Indianapolis,3900 block of Graceland Avenue,1,3,46208
+351,2015-09-17,SD,Geddes,36705 379th Street,6,0,57342
+352,2015-09-17,MI,Albion,500 block of W. Broadwell Street,0,4,49224
+353,2015-09-15,NJ,Newark,Irvine Turner Boulevard and West Kinney Street,0,4,07103
+354,2015-09-13,FL,Ocala,1910 South Pine Avenue,1,5,34475
+355,2015-09-12,LA,Shreveport,1500 block of Clanton Street,0,4,71108
+356,2015-09-12,NY,Rochester,36 Woodward Street,2,4,14605
+357,2015-09-12,MN,Minneapolis,1st Ave. and N. 5th St.,0,6,55403
+358,2015-09-12,MN,Minneapolis,1200 block of 22nd Ave. N.,1,3,55411
+359,2015-09-11,NC,Charlotte,1000 North Carolina Music Factory Blvd.,0,5,28206
+360,2015-09-10,MN,Excelsior (Greenwood),Channel Drive,5,0,55331
+363,2015-09-07,IN,Gary,9300 block of Sunrise,2,4,46403
+364,2015-09-07,CO,Denver,1909 Blake Street,0,4,80202
+365,2015-09-05,NC,Charlotte,6800 block of Fieldvale Place,1,3,28217
+366,2015-09-05,FL,Daytona Beach,300 block of Pearl Street,0,4,32114
+367,2015-09-05,NV,Las Vegas,5000 block of Hollywood Boulevard,1,3,89122
+368,2015-09-05,MO,Columbia,1509 Ashley Street,0,4,65201
+369,2015-08-30,TN,Memphis,3300 block of Sobota Circle,1,4,38109
+370,2015-08-29,TN,Bristol,618 Henson Road,3,2,37620
+371,2015-08-29,TX,Tyler,638 ENE Loop 323,1,3,75706
+372,2015-08-28,NY,Brooklyn,589 Flatbush Avenue,1,3,11225
+373,2015-08-27,CA,Salinas,928 Blanco Circle,2,2,93901
+374,2015-08-26,IL,Chicago,3025 W. Van Buren Ave,2,2,60612
+375,2015-08-26,MN,Minneapolis (Brooklyn Center),5000 block of Drew Avenue North,0,4,55429
+376,2015-08-26,FL,West Palm Beach,800 block of 19th Street,2,2,33407
+377,2015-08-25,LA,New Orleans,Fern Street and Olive Street,1,3,70125
+378,2015-08-23,CA,Modesto,1100 block of Kansas Avenue,1,7,95351
+380,2015-08-22,NM,Roswell,302 East Reed Street,3,1,88203
+381,2015-08-21,NC,Durham,2700 block of Hinson Drive,0,8,27704
+382,2015-08-21,OH,Cincinnati,Mathis and Prentice,2,5,45227
+384,2015-08-19,NY,Rochester,500 Genesee St,3,4,14611
+385,2015-08-16,TX,Fort Worth,3651 Sycamore School Rd,0,6,76133
+386,2015-08-16,IL,Chicago,5400 block of West Division Street,0,4,60651
+388,2015-08-15,PA,Pittsburgh,West Prospect Avenue,1,3,15205
+389,2015-08-15,CA,Los Angeles,57th Street and South Normandie Avenue,0,4,90062
+390,2015-08-15,SC,Orangeburg,2868 Bamberg Road,1,3,29115
+391,2015-08-10,CA,Long Beach,1700 block of East 10th Street,0,4,90813
+392,2015-08-09,MS,Forest,Poplar Street,1,3,39074
+393,2015-08-09,MI,Detroit,15200 block of Hazelridge,1,3,48205
+394,2015-08-09,MO,Kansas City,40th Street and Pennsylvania Avenue,0,4,64111
+395,2015-08-08,NC,Gastonia,4908 Greenwood Drive,2,3,28052
+396,2015-08-08,AR,Blytheville,833 Anderson Street,1,11,72315
+397,2015-08-08,TX,Houston,2211 Falling Oaks,8,0,77038
+398,2015-08-07,VT,Barre (Berlin),3182 Airport Rd,4,0,05641
+399,2015-08-06,SC,Columbia,1505 Garden Plaza,0,4,29204
+400,2015-08-04,MO,Saint Louis,2500 block of Semple,1,4,63112
+401,2015-08-03,NY,Brooklyn,98 Dwight Street,0,5,11231
+402,2015-08-02,NY,Brooklyn,Stanley Avenue and Crescent Street,0,9,11208
+403,2015-08-02,MD,Baltimore,2700 block of Garrison Avenue,0,7,21216
+404,2015-08-02,IL,Chicago,4800 block of West Kamerling Avenue,1,4,60651
+406,2015-08-02,IL,Chicago,6700 block of South Winchester Avenue,0,4,60636
+407,2015-08-01,FL,Orlando,5801 Shenandoah Way,0,4,32807
+409,2015-07-27,IL,Rockford,900 block of Kent Street,0,5,61102
+410,2015-07-26,MO,Kansas City,Thompson and Colorado,2,3,64124
+411,2015-07-26,LA,New Orleans,Piety and Treasure street,0,4,70126
+412,2015-07-25,VA,Hopewell,500 block of N. 7th Ave,0,4,23860
+413,2015-07-24,PA,Erie,200 block of W 29th St,2,5,16508
+414,2015-07-23,LA,Lafayette,3141 Johnson Street,3,9,70503
+415,2015-07-22,MO,Saint Louis,Fair Ave and Ashland Ave,0,6,63115
+416,2015-07-22,GA,Suwanee,5500 block of Old Atlanta Road,5,0,30024
+417,2015-07-21,FL,Miami Gardens,Northwest 25th Avenue and Miami Gardens Drive,1,3,33056
+418,2015-07-20,NY,Bronx,E. 153rd St. and the Grand Concourse,0,6,10451
+419,2015-07-19,VA,Suffolk,100 block of North Capitol Street,0,4,23434
+420,2015-07-19,KY,Louisville,2928 W Kentucky St,0,6,40211
+421,2015-07-19,NC,Rocky Mount,Interstate 64 and Raliegh Street,0,4,27801
+422,2015-07-18,CA,San Diego,200 block of South Bancroft Street,0,4,92113
+424,2015-07-18,OR,Salem,1550 Weston Ct NE,1,4,97301
+425,2015-07-18,LA,Baton Rouge,300 block of Brice Street,2,2,70802
+426,2015-07-17,IL,Chicago,4400 block of W. Maypole,0,5,60624
+427,2015-07-17,OH,Cincinnati (Westwood),3100 block of Sunshine Avenue,0,4,45211
+428,2015-07-16,TN,Chattanooga,4051 Amnicola Highway,6,2,37406
+429,2015-07-16,TX,Dallas,Singleton and Hampton,0,5,75212
+430,2015-07-15,GA,Atlanta,500 block of Center Hill Avenue,0,5,30318
+431,2015-07-15,MD,Baltimore,3500 block of West Garrison Boulevard,1,3,21215
+432,2015-07-15,OH,Cleveland,700 block of Thornhill,0,7,44108
+433,2015-07-15,MI,Detroit,9200 block of Memorial,0,4,48228
+434,2015-07-15,SC,Holly Hill,7050 Old State Road,4,1,29059
+435,2015-07-14,MO,Saint Louis,1100 block of Riverview,0,4,63147
+436,2015-07-13,CA,Norwalk,11959 162nd Street,0,4,90650
+437,2015-07-13,CA,Stockton,400 block of McCloud Avenue,1,4,95204
+438,2015-07-12,IL,River Forest,116 Lathrop Avenue,2,3,60305
+439,2015-07-12,NJ,Jersey City,Sip and Van Wagenen avenues,0,4,07306
+440,2015-07-07,OH,Cleveland,East 162nd Street and Miles Avenue,1,3,44128
+441,2015-07-07,MD,Baltimore,900 block of West Fayette Street,3,1,21223
+442,2015-07-05,LA,Shreveport,3500 block of Hearne Avenue,0,8,71103
+443,2015-07-05,IN,Fort Wayne,1400 block of McCulloch Street,0,9,46803
+444,2015-07-05,NJ,East Orange,200 block of S. Clinton St,1,3,07018
+445,2015-07-04,DC,Washington,2600 Douglas Place SE,1,3,20020
+446,2015-07-04,KY,Louisville,2500 block of West Broadway,0,4,40211
+447,2015-07-04,MA,Pittsfield,Dewey Avenue,1,4,01201
+448,2015-07-04,NY,Syracuse,Bellevue and Rich Street,0,4,13204
+449,2015-07-04,TX,San Antonio,1100 block of West Avenue,0,4,78201
+450,2015-07-02,IN,Indianapolis,500 block of Lynn St,1,3,46222
+451,2015-06-29,FL,Opa Locka,13450 NW 30th Ave,0,4,33054
+452,2015-06-28,MI,Detroit,Gratiot and Loretto,0,5,48205
+453,2015-06-28,IL,Venice,1430 Broadway,0,6,62090
+454,2015-06-28,DE,Harrington,100 block of East St,0,6,19952
+455,2015-06-27,MA,Taunton,Weir Street,1,3,02780
+456,2015-06-27,MI,Detroit,Stringham Court,0,4,48213
+457,2015-06-24,NY,New York (Manhattan),2110 Madison Ave,0,4,10037
+458,2015-06-22,PA,Philadelphia,700 block of East Hilton Street,0,7,19134
+459,2015-06-21,PA,Pittsburgh (Wilkinsburg),Rebecca and East Swissvale Avenue,0,4,15221
+460,2015-06-21,KY,Lexington,726 Georgetown St,1,4,40508
+461,2015-06-20,NC,Morven,6066 Robinson Bridge Rd,0,4,28119
+462,2015-06-20,MI,Detroit,Dexter and Webb,1,11,48206
+463,2015-06-20,PA,Philadelphia,4100 block of Ogden Street,0,11,19104
+464,2015-06-19,RI,Woonsocket,80 River Street,0,4,02895
+465,2015-06-17,SC,Charleston,110 Calhoun Street,9,0,29401
+466,2015-06-16,FL,Miami Gardens,600 block of Northwest 177th Street,0,4,33169
+467,2015-06-15,NY,Brooklyn,673 Flatbush Avenue,0,4,11225
+468,2015-06-14,NJ,Camden,2800 block of Mitchell Street,1,3,08105
+469,2015-06-14,OK,Tulsa,1800 block of North Kingston,0,4,74115
+470,2015-06-14,MO,Saint Louis,1400 block of North Market Street,0,4,63106
+471,2015-06-13,GA,Fayetteville,600 block of Highway 279,1,4,30214
+472,2015-06-13,OK,Oklahoma City,500 block of SE 69th St,0,4,73149
+473,2015-06-13,GA,Milledgeville,451 North Flynn Street,1,3,31061
+474,2015-06-13,NY,Bronx,2409 Creston Avenue,0,5,10468
+475,2015-06-13,OH,Columbus,1623 E. Hudson Street,4,1,43211
+476,2015-06-12,FL,Allapattah,24th Avenue and 36th Street,0,4,33142
+477,2015-06-11,CT,Bridgeport,468 Trumbull Ave,1,8,06606
+478,2015-06-11,TX,Houston,3400 block of Burkett,1,3,77004
+479,2015-06-10,CA,Los Angeles,South Vermont Avenue and West 88th Street,1,3,90044
+480,2015-06-09,MO,Saint Louis,North Market Street and North Spring Avenue,1,3,63113
+481,2015-06-07,MT,Deer Lodge,Boulder Creek Road,5,0,59722
+482,2015-06-06,NY,Buffalo,100 block of Warren Avenue,1,4,14217
+483,2015-06-06,IL,Chicago,100 block of North Lorel Avenue,0,5,60644
+484,2015-06-05,IA,Davenport,900 block of West 3rd St,0,5,52802
+485,2015-06-05,LA,New Orleans,2100 block of Governor Nicholls Street,1,3,70116
+486,2015-06-03,NY,Wyandanch,Davidson Street,3,1,11798
+487,2015-05-31,OH,Cleveland,16209 block of Laverne Avenue,3,1,44135
+488,2015-05-31,MD,Springdale,9222 Ardwick Ardmore Road,1,3,20774
+489,2015-05-31,CT,New Haven,849 Chapel Street,0,5,06510
+490,2015-05-31,GA,Conyers,4669 Bell Road SE,3,2,30013
+491,2015-05-30,CA,San Diego,4200 block of Market Street,0,4,92102
+492,2015-05-28,NE,Omaha,84th and Q,0,4,68127
+493,2015-05-28,IL,Chicago,6200 block of South Honore Street,0,5,60636
+494,2015-05-28,PA,Chester,2700 block of West 3rd Street,1,3,19013
+495,2015-05-26,LA,New Orleans,6700 block of Tara Lane,2,2,70127
+496,2015-05-25,IL,Decatur,1816 N Water,1,4,62526
+497,2015-05-24,MA,Brockton,1002 Main St,0,5,02301
+498,2015-05-24,MI,Flint,W. 12th Street and Hammerberg Road.,0,7,48507
+500,2015-05-24,MO,Saint Louis,2700 block of Dayton,0,4,63106
+501,2015-05-23,CA,Fresno,2400 block of South 9th Street,2,2,93725
+502,2015-05-20,MD,Baltimore,800 block of Linwood Avenue,1,3,21205
+503,2015-05-18,MO,Kinloch,8000 block of School Way,0,4,63140
+504,2015-05-18,FL,Miami,Northwest 75th Street and Northwest 16th Avenue,1,4,33147
+505,2015-05-17,TX,Waco,4671 S Jack Kultgen Fwy,9,18,76711
+506,2015-05-16,WI,Milwaukee,28th Street and Auer Avenue,0,5,53216
+507,2015-05-16,NY,Rochester,188 Lewis Street,0,4,14605
+508,2015-05-16,MD,Baltimore,1700 block of North Broadway,0,5,21213
+509,2015-05-12,MD,Capitol Heights,Pard Road,1,4,20743
+510,2015-05-12,AZ,Tucson,800 block of West Calle Medina Road,5,0,85757
+511,2015-05-10,OH,Cleveland,3600 block of Bosworth Rd,1,4,44111
+512,2015-05-10,NJ,Jersey City,Bostwick Avenue,0,4,07305
+513,2015-05-10,NJ,Newark,19th Avenue and South 16th Street,1,3,07103
+514,2015-05-07,OH,Cincinnati,2300 block of Baltimore Avenue,0,4,45225
+515,2015-05-07,MI,Detroit,16000 block of Cathedral Street,0,4,48228
+516,2015-05-04,NY,Buffalo,100 block of Roosevelt Avenue,1,3,14215
+517,2015-05-03,IN,South Bend,1600 block of South William Street,0,4,46613
+518,2015-05-03,TX,Houston,San Jacinto at Elgin,0,6,77004
+520,2015-05-03,OH,Dayton,2801 Germantown Street,1,6,45417
+522,2015-05-01,WI,Milwaukee,3700 block of 37th Street,2,3,53216
+523,2015-04-27,NY,Brooklyn,1365 Flatbush Ave,2,4,11226
+526,2015-04-25,NY,Gates,24 Hinchey Rd,1,6,14624
+527,2015-04-21,TX,Killeen,420 Gilmer St,2,3,76541
+528,2015-04-19,VA,Richmond,200 block of West Hill Street,0,4,23220
+529,2015-04-18,AL,Montgomery,1800 block of Gibbs Court,0,5,36108
+530,2015-04-18,PA,Williamsport,321 Pine St,0,5,17701
+532,2015-04-18,NC,Charlotte,Bost Street,0,4,28208
+533,2015-04-18,NJ,Paterson,Rosa Parks Blvd and Godwin Ave,1,3,07501
+534,2015-04-16,AZ,Phoenix,4300 block of East Anderson Drive,5,0,85032
+535,2015-04-07,GA,Rome,20 Copeland Street,1,3,30161
+536,2015-04-05,PA,Pittsburgh,Dinwiddie Street,1,3,15219
+537,2015-04-05,KY,Louisville,40th and Grand Street,1,4,40211
+538,2015-04-05,IN,Indianapolis,5000 block of Wildflower Court,0,5,46254
+539,2015-04-05,MI,Benton Harbor,1000 block of Blossom Lane,0,4,49022
+540,2015-04-03,FL,Daytona Beach,300 block of Henry Butts Drive,0,4,32114
+541,2015-04-02,MD,Baltimore,1900 block of West Lanvale Street,0,5,21217
+542,2015-03-27,FL,Panama City Beach,5312 Thomas Drive,0,7,32408
+543,2015-03-26,TX,Amarillo,3100 block of Redwood,0,4,79107
+544,2015-03-24,IN,Indianapolis,3100 block of North Harding Street,4,0,46208
+545,2015-03-23,TN,Clarksville,900 block of Carpenter Street,1,4,37040
+546,2015-03-22,NM,Albuquerque,10140 Lomas NE,1,6,87112
+547,2015-03-21,FL,Tampa,1802 Seventh Ave,0,4,33605
+548,2015-03-20,OK,Oklahoma City,1300 block of N Stiles Ave,0,4,73104
+549,2015-03-20,TX,Lancaster,1500 block of Reynolds Street,1,5,75134
+550,2015-03-18,NJ,Newark,200 block of Clinton Place,1,3,07112
+551,2015-03-18,AZ,Mesa,1504 West Main Street,1,5,85201
+552,2015-03-17,CA,Stockton,748 N Madison St,3,4,95202
+553,2015-03-15,CA,Compton,2700 block of West Alondra Boulevard,0,4,90220
+554,2015-03-14,GA,Atlanta,2900 block of Delmar Lane,0,5,30311
+555,2015-03-14,CA,Coachella,84000 block of Bagdad Avenue,0,4,92236
+556,2015-03-13,MS,Brookhaven,1097 South First St.,2,3,39601
+557,2015-03-10,GA,Columbus,3023 Victory Drive,0,5,31903
+558,2015-03-09,IL,Chicago,200 block of West 105th,1,3,60628
+560,2015-03-07,MO,Saint Louis,3140 Olive St,0,4,63103
+561,2015-03-04,CA,San Bernardino,190 block of W Club Center Dr,3,4,92408
+562,2015-03-01,FL,Orange County,4900 block of Steyr Street,0,4,32819
+563,2015-03-01,MI,Detroit,9855 Chalmers St,1,5,48213
+564,2015-02-28,MD,Baltimore,4300 block of Welbourne Road,1,3,21218
+565,2015-02-26,MO,Tyrone,18279 Highway H,8,1,65464
+566,2015-02-25,TX,Houston,5022 Mallow St,3,1,77033
+567,2015-02-23,FL,Daytona Beach,Sheridan Road,0,4,32114
+568,2015-02-22,TX,Killeen,1706 Godman St.,4,1,76543
+569,2015-02-22,GA,Clarkesville,281 Lower Pond Court,3,2,30523
+570,2015-02-22,SC,Charleston,4224 Dorchester Road,0,4,29405
+571,2015-02-20,CA,Sacramento,1417 R Street,0,4,95811
+572,2015-02-17,AR,Little Rock,7900 Scott Hamilton,1,3,72209
+573,2015-02-15,CA,Long Beach,200 block of W. 14th Street,0,5,90813
+574,2015-02-09,FL,New Port Richey,9552 Adler Street,3,1,34654
+575,2015-02-08,TN,Friendship,251 Dupree Rd,0,6,38034
+576,2015-02-07,GA,Douglasville,3640 Willow Tree Circle,5,2,30135
+577,2015-02-06,OK,Tulsa,1219 N. Sheridan Road,1,4,74115
+579,2015-02-01,NY,Syracuse,1217 West Fayette Street,0,6,13204
+580,2015-02-01,NY,New York (Manhattan),3345 Broadway,1,4,10031
+581,2015-01-31,GA,Lagrange,100 block of Woodstream Trail,4,0,30240
+582,2015-01-28,GA,Dekalb County,1600 block of Panola Road,1,3,30088
+583,2015-01-26,CA,Stockton,1500 block of E. 9th Street,1,3,95206
+584,2015-01-24,NY,Arverne (Queens),231-11 148th Avenue,4,1,11413
+585,2015-01-24,NE,Omaha,3402 Parker St,3,5,68111
+586,2015-01-23,MA,Boston,954 Parker Street,0,6,02130
+587,2015-01-20,TN,Clarksville,321 Lansinger Lane,1,3,37042
+588,2015-01-19,TX,San Antonio,1000 block of Gibbs St.,2,5,78202
+589,2015-01-13,IL,Rockford,700 block of Oakley Avenue,2,2,61101
+590,2015-01-13,VA,Portsmouth,4100 block of Portsmouth Boulevard,0,5,23321
+591,2015-01-11,NC,Hope Mills,1900 block of Gumberry Road,2,5,28348
+592,2015-01-11,FL,Lakeland,7665 Chase Road,1,3,33810
+593,2015-01-11,CA,San Jose,3840 Monterey Hwy,0,5,95111
+594,2015-01-10,KS,Wichita,4859 E Harry Street,2,2,67218
+595,2015-01-09,CA,San Francisco,Laguna St and Page St,4,0,94102
+596,2015-01-08,MA,Boston,104 Harrishof Street,1,3,02121
+597,2015-01-07,TN,Chattanooga,773 West Main Street,1,3,37402
+598,2015-01-06,FL,Miami,1300 block of NW 62nd Street,1,3,33147
+599,2015-01-04,VA,Roanoke,3634 Shenandoah Ave NW,2,4,24017
+600,2015-01-04,TX,Dallas,2000 block of Ben Hur St.,3,1,75253
+601,2015-01-02,GA,Savannah,500 block of W. 54th Street,1,4,31405
+602,2015-01-01,TN,Memphis,Interstate 240 and Poplar Avenue,0,5,38119
+603,2016-12-31,GA,Lenox (El Dorado),27 Briarwood Ct,2,2,31637
+604,2016-12-31,TX,Houston,3704 Fannin Street,1,3,77004
+605,2016-12-30,OH,Mansfield,3230 Possum Run Rd,0,5,44903
+606,2016-12-30,CT,Wallingford,95 S Turnpike Rd,2,3,06492
+607,2016-12-28,GA,Columbus,2914 10th Street,1,4,31906
+608,2016-12-25,IL,Chicago,8600 block of S Maryland Ave,3,4,60619
+609,2016-12-25,AL,Ozark,858 US-231,0,4,36360
+610,2016-12-25,NY,Mount Vernon,4 North 3rd Avenue,1,5,10550
+611,2016-12-24,NC,Madison,490 K Ford Rd,0,7,27025
+612,2016-12-24,NC,Wilson,2241 Banks Lane East,4,0,27893
+613,2016-12-23,AL,Birmingham,3813 Richard Arrington Boulevard North,1,3,35234
+614,2016-12-23,IL,Chicago,4900 block of W Hubbard,0,4,60644
+615,2016-12-17,IL,Chicago (Roseland),100 block of W 105th St,5,0,60628
+616,2016-12-17,NC,Charlotte,4115 N. Tryon Street,0,4,28206
+617,2016-12-16,IL,Chicago,13th and South Kedzie,0,4,60612
+618,2016-12-16,IL,Chicago,4300 block of South Rockwell,2,2,60632
+619,2016-12-12,CA,Sacramento,4800 block of Myrtle Avenue,1,3,95841
+620,2016-12-11,NY,Brooklyn,192 Knickerbocker Ave,0,4,11237
+621,2016-12-11,FL,Orlando (Pine Hills),4305 N Pine Hills Rd,1,4,32808
+622,2016-12-11,MD,Baltimore,3916 South Hanover Street,0,5,21225
+623,2016-12-11,NC,Rocky Mount,1200 block of East Highland Ave,0,4,27801
+625,2016-12-09,CA,Fresno,842 Fresno Street,0,4,93706
+626,2016-12-05,NM,Albuquerque,1532 Stagecoach Lane,4,1,87123
+627,2016-12-03,CA,Los Angeles,91st Street and Western Avenue,0,6,90047
+628,2016-12-02,NJ,Bloomfield,3 1st Ave,0,6,07003
+630,2016-11-30,MD,Baltimore,2901 Garrison Blvd,2,4,21216
+631,2016-11-28,TX,Mission (Palmview),1840 West Palma Vista Drive,1,3,78572
+632,2016-11-28,CA,Wilmington,1067 McDonald Avenue,0,4,90744
+633,2016-11-28,CA,San Pedro,300 block of West 2nd Street,0,4,90731
+634,2016-11-27,LA,New Orleans,100 block of Bourbon Street,1,9,70112
+635,2016-11-27,MO,Kansas City,Gregory and Prospect,0,7,64132
+636,2016-11-26,IL,Chicago,8800 block of S Exchange Ave,1,5,60617
+637,2016-11-25,LA,New Orleans,Magnolia St and Felicity St,0,4,70113
+638,2016-11-24,KY,Louisville,4501 W Broadway,2,4,40211
+639,2016-11-24,NY,Albany,77 Central Ave,1,3,12206
+640,2016-11-23,MS,Olive Branch,928 Cross Road,0,4,38632
+641,2016-11-22,FL,Clewiston,1068 Harlem Academy Ave,1,4,33440
+642,2016-11-18,IL,Chicago,5000 block of W Wabansia,0,4,60639
+643,2016-11-17,TN,Dyersburg,160 Longfellow,1,7,38024
+644,2016-11-13,FL,Jacksonville,5105 Cleveland Rd,3,2,32209
+645,2016-11-13,TX,San Antonio,8000 Midcrown,0,4,78218
+646,2016-11-13,CA,San Diego,3800 block of Marlborough Avenue,3,2,92105
+647,2016-11-13,FL,Orlando,Conley Street and South Ivey Lane,0,4,32811
+648,2016-11-12,CA,Sacramento,8600 block of Ardith Drive,1,5,95828
+650,2016-11-12,CT,Bridgeport,2500 Park Avenue,0,5,06604
+651,2016-11-11,TX,Houston,7705 Channelside Street,0,4,77012
+652,2016-11-10,TX,Houston,6610 S Sam Houston Pkwy W,1,3,77085
+653,2016-11-09,WA,Seattle,1524 3rd Ave,0,5,98101
+654,2016-11-09,IL,Chicago,3400 block of W Monroe,1,3,60624
+655,2016-11-09,TN,Memphis,1800 block of East Brooks Road,0,4,38116
+656,2016-11-05,FL,Fort Lauderdale (Lauderhill),3135 West Broward Boulevard,1,3,33312
+657,2016-11-05,TX,San Antonio,10726 Perrin Beitel Rd,0,4,78217
+658,2016-11-05,SC,Myrtle Beach,803 Main St,0,5,29582
+659,2016-11-05,CA,Oakland,420 14th Street,0,8,94612
+660,2016-11-05,IL,Chicago,4800 block of North Winthrop,0,5,60640
+661,2016-11-04,PA,Philadelphia,5451 Springfield Ave,0,4,19143
+662,2016-11-03,IL,Chicago,8000 block of S Shore Dr,2,2,60617
+663,2016-11-03,NJ,Orange,234 Cleveland Street,2,2,07050
+664,2016-11-02,AR,Little Rock,2111 Bragg Street,1,4,72206
+665,2016-11-01,TN,Memphis,5200 block of Zodiac Rd,1,5,38118
+666,2016-10-31,LA,Shreveport,700 Block of W 68th St,0,4,71106
+667,2016-10-30,OH,Toledo,742 Junction Ave,0,4,43607
+668,2016-10-30,NY,New York (Manhattan),135 Ridge Street,0,4,10002
+669,2016-10-30,NY,Newburgh,119 First Street,2,5,12550
+670,2016-10-30,MD,Capitol Heights,6860 Walker Mill Road,3,3,20743
+671,2016-10-30,TX,San Antonio,2900 block of Aspen Meadow,0,5,78238
+672,2016-10-29,OH,Dayton,2010 Cornell Ridge Dr,1,3,45406
+673,2016-10-29,CA,Los Angeles,1600 block of Century Boulevard,0,5,90047
+674,2016-10-29,CA,Riverside,3500 block of Madison Street,0,4,92504
+675,2016-10-28,MS,Jackson,200 block of Lorenz Blvd,0,6,39213
+676,2016-10-28,FL,Miami Gardens,Northwest 173rd Terrace and 27th Avenue,0,4,33056
+677,2016-10-27,GA,Jackson,600 block of Moccasin Gap Road,4,0,30233
+678,2016-10-25,OH,Dayton,3300 block of Riverside Dr,1,3,45405
+679,2016-10-25,VA,Roanoke,830 Campbell Avenue Southeast,2,3,24013
+681,2016-10-22,CA,Oakland,77th and Bancroft Avenues,0,7,94605
+682,2016-10-18,CA,San Francisco,325 La Grande Ave,0,4,94108
+683,2016-10-17,IL,Chicago (Englewood),6700 block of South Winchester,1,4,60636
+684,2016-10-15,AL,Mobile,1800 block of St Stephens Road,0,5,36617
+685,2016-10-15,IL,Rockford,7801 East State St,1,5,61108
+686,2016-10-15,CA,Los Angeles,2918 Rimpau Blvd,4,11,90016
+687,2016-10-14,IL,Chicago,3300 block of W Maypole Ave,1,6,60624
+688,2016-10-13,IL,Chicago,2700 block of West Lexington,0,4,60612
+689,2016-10-09,MI,Grand Rapids,1850 28th Street SE,1,8,49508
+690,2016-10-09,CA,Sacramento,1696 Arden Way,1,3,95815
+691,2016-10-08,NY,Brooklyn,7301 3rd Ave,0,4,11209
+692,2016-10-04,LA,New Orleans,3727 Ulloa Street,3,2,70119
+693,2016-10-03,MN,Minneapolis,Fourth St and Hennepin Ave,0,4,55401
+694,2016-10-02,TX,San Antonio,2600 South Flores Street,1,4,78204
+695,2016-10-01,IL,Pembroke Township,17250E Road,4,0,60958
+696,2016-10-01,CA,Fresno,3200 block of East Clay Avenue,0,4,93702
+697,2016-09-29,CA,San Francisco,400 block of Ellis St,1,3,94102
+698,2016-09-26,NC,Winston Salem (Winston-salem),100 block of 5 Royales Dr,0,4,27105
+699,2016-09-26,TX,Humble,21219 Grand Linden Ct,0,4,77338
+700,2016-09-26,TX,Houston,5450 Weslayan St,1,6,77005
+701,2016-09-25,IL,Champaign,300 block of E. Green St,1,3,61820
+702,2016-09-24,MD,Baltimore,Greenmount Ave and Preston St,0,8,21202
+703,2016-09-23,WA,Burlington,201 Cascade Mall Dr,5,0,98233
+704,2016-09-18,PA,Philadelphia,3001 Castor Avenue,0,4,19134
+705,2016-09-18,PA,Pittsburgh,1700 block of Brighton Pl,0,4,15212
+706,2016-09-18,VA,Lynchburg,421 Rivermont Ave,1,3,24504
+707,2016-09-17,FL,Miami,20582 SW 119th Ave,0,6,33177
+708,2016-09-17,FL,Orlando,3918 Columbia St,1,6,32805
+709,2016-09-17,IN,Indianapolis,2016 West 76th Street,2,2,46260
+710,2016-09-17,DC,Washington,2600 block of Birney Place SE,2,7,20020
+711,2016-09-16,CA,Los Angeles (Hollywood),555 N Heliotrope Dr,2,2,90004
+712,2016-09-16,PA,Philadelphia,5100 block of Sansom St,2,5,19139
+713,2016-09-14,TX,Humble,16000 block of Saybrook,1,3,77396
+714,2016-09-13,IN,Fort Wayne,1723 E Wayne St,3,2,46803
+715,2016-09-11,IN,Fort Wayne,3006 Holton Avenue,3,1,46806
+716,2016-09-11,LA,New Orleans,2349 S Claiborne Ave,1,5,70125
+717,2016-09-11,MO,Kansas City,500 block of Westport Rd,0,6,64111
+718,2016-09-11,MI,Saginaw,2207 Pierce Road,0,5,48604
+719,2016-09-11,NC,New Bern,1100 block of Highway 70,0,5,28560
+720,2016-09-11,NJ,Jersey City,87 Van Wagenen Ave,1,3,07306
+721,2016-09-10,FL,Miami,3451 Northwest 36 Street,1,3,33142
+722,2016-09-08,TX,Del Valle,8330 Linden Rd,4,0,78617
+723,2016-09-08,AR,Hot Springs National Park (Hot Springs),300 block of Lacey St,1,4,71913
+724,2016-09-05,IL,Chicago,2700 block of W Lexington Ave,2,3,60612
+725,2016-09-05,PA,Reading,600 block of Moss Street,0,4,19604
+726,2016-09-04,VA,Roanoke,1020 Orange Ave NE,1,10,24012
+727,2016-09-03,NC,Wilmington,600 block of North 30th St,1,3,28405
+729,2016-08-30,GA,Atlanta,400 Merritts Avenue NE,0,4,30308
+730,2016-08-30,IL,Chicago (Englewood),6800 block of South Ashland,0,4,60636
+731,2016-08-29,NJ,Egg Harbor City,907 White Horse Pike,1,5,08215
+732,2016-08-28,TX,Lubbock,2200 block of 17th St,0,6,79401
+733,2016-08-28,NY,Bronx,514 E 156th St,0,4,10455
+734,2016-08-28,MO,Saint Louis,S Grand Blvd and Montana St,2,2,63118
+735,2016-08-28,AL,Dadeville,512 E Columbus St,0,5,36853
+736,2016-08-27,AL,Bessemer (Brighton),3810 7th Ave,1,6,35020
+737,2016-08-27,FL,Miami,1900 block of NW 83rd Terr,2,4,33147
+738,2016-08-25,NJ,Bridgeton,Marion Street,0,5,08302
+739,2016-08-21,MA,Boston,Westview and Stratton Street,0,4,02124
+740,2016-08-21,CT,Bridgeport,19 Plymouth St,0,13,06610
+741,2016-08-20,CT,Hamden,903 Dixwell Ave,0,4,06514
+742,2016-08-20,WA,Tacoma,900 block of Pacific Avenue,0,5,98402
+743,2016-08-20,AL,Citronelle,Jim Platt Road,5,0,36522
+744,2016-08-18,CT,Waterbury,402 E Main Street,0,4,05676
+746,2016-08-14,VA,Norfolk,1600 block of Selden Avenue,0,4,23523
+747,2016-08-14,MN,Minneapolis,1717 Plymouth Ave N,0,5,55411
+748,2016-08-13,CA,Los Angeles,6300 block of 11th Avenue,0,4,90043
+749,2016-08-13,WI,Milwaukee,4001 West Fond Du Lac Ave,2,2,53216
+750,2016-08-13,NY,Richmond Hill,Jamaica Ave and 105th St,0,4,11418
+751,2016-08-13,MO,Joplin,1800 Connecticut Ave,0,4,64804
+752,2016-08-12,FL,Jacksonville,100 block of West 38th Street,1,3,32206
+753,2016-08-12,TX,Dallas,10921 Estate Ln,1,3,75238
+754,2016-08-11,PA,Philadelphia,500 block of E Ashmead St,0,4,19144
+755,2016-08-10,IL,Evanston,Foster Street and Jackson Avenue,0,4,60201
+756,2016-08-10,CA,Sacramento,4000 Green Tree Drive,1,3,95823
+757,2016-08-08,FL,Jacksonville,1214 Labelle St,0,7,32205
+758,2016-08-08,NM,Albuquerque,341 General Marshall Street NE,2,2,87123
+759,2016-08-07,CA,Los Angeles,5925 South Figueroa Street,1,3,90003
+760,2016-08-07,MS,Vicksburg,4460 Clay St,1,3,39183
+761,2016-08-07,CO,Arvada,5400 block of Sheridan Boulevard,2,2,80002
+762,2016-08-07,IL,Chicago,100 block of South Springfield,0,4,60624
+763,2016-08-06,PA,Reading (Sinking Spring),51 Winding Brook Drive,5,0,19608
+764,2016-08-05,MI,Pontiac,70 block of Thorpe Street,1,3,48341
+765,2016-08-05,CA,Perris,21600 block of Rider St,2,2,92570
+766,2016-08-04,TN,Memphis,Ayers Street and Griffith Avenue,0,4,38107
+767,2016-08-03,GA,Decatur,4110 Glenwood Road,1,3,30032
+768,2016-08-02,FL,Hollywood (West Park),5700 block of Hallandale Beach Blvd,0,4,33023
+769,2016-08-01,IN,Evansville,South Bedford Avenue,0,4,47713
+770,2016-07-31,FL,Miami,Southwest 203rd Terrace and 115th Avenue,3,1,33189
+771,2016-07-31,TX,Austin,208 E 6th St,1,4,78701
+772,2016-07-30,MO,Saint Louis,5000 block of Kensington Ave,0,5,63108
+773,2016-07-30,WA,Mukilteo,10009 Chennault Beach,3,1,98275
+775,2016-07-29,GA,Athens,Trail Creek St,0,7,30601
+776,2016-07-28,NY,Elmira,303 College Ave,0,5,14901
+778,2016-07-28,IL,Chicago,800 block of West 50th Place,2,2,60609
+779,2016-07-25,FL,Fort Myers,3580 Evans Ave,2,19,33901
+780,2016-07-24,OH,Hamilton,1555 Main St,1,7,45013
+781,2016-07-23,SC,North Charleston,3630 Ashley Phosphate Road,0,4,29420
+782,2016-07-23,OH,Cincinnati,3400 block of Beekman St,2,2,45223
+784,2016-07-23,TX,Bastrop,202 Childers Drive,4,1,78602
+785,2016-07-22,IL,Kankakee,300 block of North Wildwood Avenue,0,5,60901
+786,2016-07-21,IL,Chicago,4400 block of South Leamington,0,5,60638
+787,2016-07-20,CA,Fresno,Hedges at Peach and Olive,0,4,93727
+788,2016-07-19,AR,West Memphis,13th Street and Tyler Avenue,0,4,72301
+789,2016-07-17,TX,Houston,6610 Tidwell,1,3,77016
+790,2016-07-17,MI,Detroit,Grand River and McGraw avenue,0,4,48208
+791,2016-07-17,LA,Baton Rouge,9611 Airline Hwy,4,3,70815
+792,2016-07-16,TX,Dallas,6300 block of Benavides Drive,0,5,75217
+793,2016-07-16,OH,Cleveland,5000 block of Euclid Avenue,0,5,44103
+794,2016-07-16,CA,San Bernardino,1200 block of West 25th Street,0,4,92405
+795,2016-07-16,CA,Bakersfield,621 Stephens Drive,1,14,93304
+796,2016-07-16,TN,Clarksville,1348 College Street,0,6,37040
+797,2016-07-15,WA,Woodland,4006 NW 417th Street,3,1,98674
+798,2016-07-14,TX,Crosby,400 block of Pecan Avenue,3,1,77532
+799,2016-07-14,CA,Oakland,1600 block of 7th Street,0,4,94607
+800,2016-07-14,OH,Akron,900 block of Moeller Avenue,1,3,44307
+801,2016-07-13,GA,Warner Robins,105 Magnolia Avenue,0,5,31093
+802,2016-07-13,MO,Saint Louis,3000 block of Miami St,2,2,63118
+803,2016-07-11,MD,Baltimore,1800 block of W. North Avenue,0,5,21217
+804,2016-07-11,MI,Jackson,500 block of Summit Avenue,0,4,49203
+805,2016-07-11,DC,Washington,"5100 block of Call Pl., SE",0,4,20019
+806,2016-07-11,MI,Saint Joseph,811 Port St,3,2,49085
+807,2016-07-07,LA,Baton Rouge,2136 North Lobdell Avenue,0,4,70806
+808,2016-07-07,TX,Dallas,800 Main St,5,9,75202
+809,2016-07-07,TN,Bristol,536 Volunteer Pkwy,1,4,37620
+810,2016-07-05,CA,Los Angeles,56th Street and Naomi Avenue,0,4,90011
+811,2016-07-04,NY,Brooklyn,419 Chauncey St,0,7,11233
+812,2016-07-04,PA,Pittsburgh,Seventh  Ave and Liberty Ave,0,4,15222
+813,2016-07-04,IL,Chicago (Englewood),5500 block of South Hermitage Avenue,0,4,60636
+814,2016-07-04,OH,Cleveland,1400 block of W. 107 Street,0,4,44102
+815,2016-07-04,TX,Houston,1300 block of Robin,3,2,77019
+816,2016-07-04,AZ,Phoenix,4000 block of West Southern Avenue,2,6,85041
+817,2016-07-03,LA,Monroe,401 Lea Joyner Memorial Expy,2,3,71201
+818,2016-07-03,TN,Chattanooga,2300 block of Daisy Street,0,4,37406
+819,2016-06-30,IL,Chicago,9500 block of South Loomis Street,1,4,60643
+820,2016-06-29,NV,Las Vegas,6100 block of West Lake Mead Boulevard,5,0,89108
+821,2016-06-28,CA,Los Angeles,13800 block of S Avalon Boulevard,1,3,90061
+822,2016-06-28,IL,Chicago,1600 block of South Christiana,0,4,60623
+823,2016-06-27,OR,Woodburn,13436 Killiam Loop NE,3,1,97071
+825,2016-06-26,NC,Charlotte,2240 Camp Greene St,0,5,28208
+826,2016-06-26,GA,Atlanta,1500 block of Moreland Avenue SE,1,4,30316
+827,2016-06-26,TX,Houston,6000 block of Elm Street,1,3,77081
+828,2016-06-26,TX,Corpus Christi,Baldwin Blvd  and Lamar,0,4,78405
+829,2016-06-25,TX,Fort Worth,2466 East Lancaster Avenue,2,5,76102
+830,2016-06-25,VA,Norfolk,700 block of Craig Street,0,4,23523
+831,2016-06-25,IL,Chicago,1400 block of W. 114th Place,0,4,60643
+833,2016-06-24,CT,Hartford,Brook and Winter Street,0,5,06120
+834,2016-06-24,MD,District Heights,3100 block of Orleans Ave,3,2,20747
+837,2016-06-22,IL,Chicago,3100 block of West Warren,0,4,60612
+838,2016-06-21,NJ,Willingboro,Mosshill Lane,0,4,08046
+839,2016-06-21,KY,Louisville,2802 Rodman Street,2,2,40208
+840,2016-06-19,VA,Roanoke,2328 Melrose Avenue,0,4,24017
+841,2016-06-18,VA,Exmore,Fredrick Douglas Road,1,3,23350
+842,2016-06-18,GA,Waycross,2625 Arnold Ct,2,2,31501
+843,2016-06-18,IL,Chicago,East 79th Street and South Escanaba Avenue,0,4,60649
+844,2016-06-14,DE,Wilmington,South Van Buren and Elm streets,0,4,19805
+845,2016-06-14,CA,Oakland,1301 Franklin Street,1,3,94612
+846,2016-06-13,CA,Fresno,East El Monte Way and Recreation Avenue,0,4,93702
+847,2016-06-13,NY,Brooklyn,Avenue D and E. 57th,0,5,11203
+848,2016-06-13,IL,Chicago,3200 block of West Congress,0,5,60624
+849,2016-06-12,FL,Orlando,1912 S Orange Avenue,50,53,32806
+850,2016-06-11,NM,Roswell,2300 block of Davis Ave,5,0,88201
+851,2016-06-11,MN,Webster,4000 block of Elmore Avenue,0,4,55088
+852,2016-06-11,NC,Charlotte,4000 block of Collegiate Avenue,1,3,28262
+853,2016-06-11,CA,Stockton,Alvarado Avenue,1,3,95204
+854,2016-06-11,CA,Panorama City,8500 block of Cedros Avenue,3,2,91402
+855,2016-06-09,FL,Fort Walton Beach,Landview Drive,0,4,32547
+856,2016-06-08,DC,Washington,1300 North Capitol St NW,0,4,20001
+857,2016-06-08,MA,Boston,66 Washington St,1,3,02135
+858,2016-06-06,CA,Visalia,33 60 South Fairway Street,0,4,93277
+859,2016-06-05,MN,Minneapolis,8th and Humboldt Avenue N.,0,4,55405
+860,2016-06-05,FL,Cape Coral,2600 block of Skyline Boulevard S,3,3,33914
+861,2016-06-05,AZ,Phoenix,8152 N Black Canyon Hwy,2,4,85051
+862,2016-06-05,NY,Brooklyn,Mermaid Ave and 16th St.,0,4,11224
+863,2016-06-04,CO,Denver,3600 block of Hudson Street,3,1,80207
+864,2016-05-31,IL,Chicago,3300 block of West Huron Street,0,4,60624
+865,2016-05-31,IN,Fort Wayne,6600 block of Pawawna Drive,0,4,46815
+866,2016-05-30,MD,Baltimore,500 block of East 43rd Street,0,5,21212
+867,2016-05-30,CA,Sacramento,3900 block of 44th,0,5,95824
+868,2016-05-29,NV,Las Vegas,200 block of N 3rd St,0,4,89101
+869,2016-05-29,NJ,Trenton,600 block of Martin Luther King Jr. Boulevard,0,6,08618
+870,2016-05-29,IN,Indianapolis,300 block of South Meridian Street,0,4,46225
+871,2016-05-29,TX,Houston,13210 Memorial Dr,2,6,77079
+872,2016-05-23,NJ,Newark,102 Isabella Avenue,0,5,07106
+873,2016-05-22,LA,New Orleans,8639 Apple St,0,4,70118
+874,2016-05-22,CA,Stockton,Poplar and Sutter Streets,1,3,95202
+875,2016-05-22,TN,Nashville,100 block of Rains Avenue,0,4,37203
+877,2016-05-18,IN,Indianapolis,34th Street and North Keystone Avenue,0,4,46218
+878,2016-05-17,SC,Ravenel,5360 Savannah Highway,3,1,29470
+879,2016-05-15,IN,Evansville,420 North Garvin Street,0,4,47711
+882,2016-05-14,WV,Charleston,2337 Washington St W,1,3,25387
+883,2016-05-11,AL,Birmingham,1400 block of 21st St N,1,4,35234
+884,2016-05-11,IL,Chicago,7100 block of South State Street,0,5,60619
+885,2016-05-08,TX,Austin,8600 block of North Lamar,1,3,78753
+886,2016-05-06,MI,Detroit,12300 block of Gratiot,1,4,48205
+887,2016-05-06,AL,Montgomery,1300 block of Clay Street,1,3,36104
+888,2016-05-06,MD,Bethesda,7101 Democracy Blvd,3,3,20817
+889,2016-05-05,LA,Shreveport,300 block of North Thomas Drive,2,6,71107
+890,2016-05-05,FL,Miami,2108 NW 19th Terrace,1,3,33125
+891,2016-05-04,MN,Minneapolis,16th Avenue North and Newton Avenue North,1,7,55411
+892,2016-05-01,TN,Murfreesboro,1955 Old Castle Drive,0,5,37127
+893,2016-04-29,MO,Saint Louis (Ferguson),400 block of N Dade Ave,0,4,63135
+894,2016-04-29,CA,Oakland,3200 block of San Pablo Avenue,0,5,94608
+895,2016-04-27,LA,Baton Rouge,4300  Block of Kerrit Dr,2,2,70814
+896,2016-04-27,MS,Kilmichael,Pecan Drive,3,1,39747
+897,2016-04-26,MD,District Heights (Forestville),6500 block of Hil-Mar Drive,1,4,20747
+898,2016-04-25,TN,Nashville,400 Charlotte Avenue,0,4,37209
+899,2016-04-25,FL,Miami,1506 Northwest 70th Street,0,5,33147
+900,2016-04-24,VA,Halifax,1055 L P Bailey Memorial Hwy,0,5,24558
+901,2016-04-24,IL,Chicago (Englewood),2000 block of West 68th Place,2,3,60636
+902,2016-04-24,CO,Denver,1400 block of 14th Street,0,4,80204
+903,2016-04-23,NV,Las Vegas,1650 South Hollywood Boulevard,1,3,89142
+904,2016-04-23,AL,Auburn,1200 block of Lee Road 83,3,1,36804
+905,2016-04-23,NY,New York (Manhattan),West 141st Street and Edgecombe Avenue,0,4,10030
+906,2016-04-23,KS,Topeka,3732 SW Topeka Blvd,1,4,66609
+907,2016-04-22,OH,Piketon,4077 Union Hill Rd,8,0,45661
+908,2016-04-22,GA,Appling,3162 Johnson Drive,6,0,30802
+909,2016-04-21,MD,Baltimore,4800 block of Frankford Avenue,0,4,21206
+910,2016-04-19,AL,Blountsville,81551 Us Highway 278,1,4,35031
+911,2016-04-19,IL,Chicago,2700 block of West 53rd Street,1,3,60632
+912,2016-04-19,IL,Chicago,1400 block of West 84th Street,1,4,60620
+913,2016-04-18,CA,Long Beach,1200 block of E. 17th Street,1,3,90813
+914,2016-04-17,PA,Philadelphia,600 block of Westmoreland Street,3,1,19140
+915,2016-04-17,SC,Pelzer,200 block of Eastview Road,1,3,29669
+916,2016-04-17,TX,Edinburg,5021 W St Hwy 107,1,6,78504
+917,2016-04-16,MI,Detroit,9500 block of Oakland,1,4,48211
+918,2016-04-16,FL,Orlando,1100 block of Conley Street,2,4,32805
+919,2016-04-16,AL,Enterprise,Baxter Street,0,4,36330
+920,2016-04-10,WI,Milwaukee,76th and Sheridan,1,3,53218
+921,2016-04-10,CA,Los Angeles,84th Street and Towne Avenue,0,4,90003
+922,2016-04-09,TN,Memphis,Mt Moriah Road and Ridgeway Road,0,4,38115
+923,2016-04-09,AL,Anniston,West 15th Street and Crawford Avenue,0,4,36201
+924,2016-04-09,NM,Albuquerque,2600 block of Mesa Drive SE,0,4,87106
+925,2016-04-07,IL,Chicago,2200 block of East 70th Place,0,4,60649
+926,2016-03-31,IL,Chicago (Englewood),6800 block of South Throop,0,4,60636
+927,2016-03-25,IL,Chicago,4500 block of West West End Avenue,0,4,60624
+928,2016-03-25,CO,Denver,8501 E. Alameda Avenue,0,4,80230
+929,2016-03-21,IL,Chicago,5700 block of West Washington Boulevard,0,4,60644
+930,2016-03-19,FL,Plantation,12050 NW 4th Court,1,4,33325
+931,2016-03-19,AL,Wetumpka,South Shelby Street,2,2,36092
+933,2016-03-13,FL,Fort Myers,50 South Road,0,4,33907
+934,2016-03-12,OR,Portland,16126 S.E. Stark St.,0,4,97233
+936,2016-03-11,MI,Detroit,2600 block of Hazelwood,2,2,48206
+937,2016-03-11,NJ,Trenton,Oliver Avenue,0,5,08618
+938,2016-03-09,PA,Pittsburgh,1304 Franklin Ave,5,3,15221
+939,2016-03-08,TX,San Antonio,Sherman St,2,3,78202
+940,2016-03-07,LA,Lafayette,800 block of Martin Luther King Jr. Drive,0,4,70501
+941,2016-03-07,KS,Kansas City,3000 block of South 36th Street,5,0,66106
+942,2016-03-06,MA,Chelsea,120 Washington Avenue,1,6,02150
+943,2016-03-06,GA,Roswell,890 Atlanta St,0,4,30075
+944,2016-03-06,CA,Compton,900 block of West Victoria Street,1,8,90220
+945,2016-03-05,KS,Wichita,116 North Mead,0,4,67202
+946,2016-03-04,OH,Columbus,900 E 5th Ave,1,3,43201
+947,2016-02-28,MI,Detroit,8800 block of Livernois,0,5,48204
+948,2016-02-28,CA,Riverside (Jurupa Valley),5500 block of Etiwanda Avenue,1,3,91752
+949,2016-02-27,VA,Woodbridge (Lake Ridge),13051 Lashmere Ct,2,2,22192
+950,2016-02-26,WA,Belfair,300 block of Horseshoe Rd.,5,0,98528
+951,2016-02-25,KS,Hesston,200 S Ridge Rd,4,14,67062
+952,2016-02-23,AZ,Glendale,4812 West Sunnyside Ave,5,0,85304
+953,2016-02-23,FL,Daytona Beach,1042 Sheridan Road,0,4,32114
+954,2016-02-21,TX,Houston,5100 block of Idaho Street,0,5,77021
+955,2016-02-21,MO,Hazelwood,7217 N Lindbergh Blvd,1,3,63042
+956,2016-02-20,FL,Tampa,2810 E. Bearss Ave,1,3,33618
+957,2016-02-20,MI,Kalamazoo,5581 Cracker Barrel Blvd,6,2,49009
+958,2016-02-20,AL,Bessemer,200 block of Elm Street,1,3,35022
+959,2016-02-20,FL,Orlando,446 S Parramore Ave,0,4,32805
+960,2016-02-20,MS,Iuka,231 Co Rd 201,2,3,38852
+961,2016-02-19,MO,Edgerton,4100 block of Buena Vista Road,4,0,64444
+962,2016-02-19,CA,Vallejo,509 Porter Street,1,3,94590
+963,2016-02-14,TX,Houston,8449 Gulf Freeway,1,3,77017
+964,2016-02-14,AL,Eutaw (Union),Earnest Friday Road,0,5,35462
+965,2016-02-13,LA,Marrero,5425 Lapalco Boulevard,0,4,70072
+966,2016-02-07,MS,Pass Christian,Davis Avenue,2,4,39571
+967,2016-02-07,FL,Orlando,7432 Universal Blvd,2,10,32819
+968,2016-02-07,NY,Rochester,547 State St,1,7,14608
+969,2016-02-07,IL,Chicago (Englewood),6500 block of South Green Street,0,4,60621
+970,2016-02-06,CA,Los Angeles,12800 block of Cook Street,1,3,90061
+971,2016-02-06,FL,Apopka,10th Street,0,4,32703
+972,2016-02-06,FL,Tampa,8123 N Nebraska Ave,2,6,33604
+973,2016-02-03,DC,Washington,1500 block of Butler St. SE,0,4,20020
+974,2016-01-30,AZ,Glendale,67th and Missouri Avenue,3,5,85303
+975,2016-01-27,VA,Chesapeake,1401 N. George Washington Hwy,6,0,23323
+976,2016-01-26,WA,Seattle,Airport Way S. and S. Atlantic St.,2,3,98134
+977,2016-01-25,CA,Perris,140 S. D Street,1,4,92570
+978,2016-01-23,CA,Los Angeles,8105 Avalon Blvd,2,2,90003
+979,2016-01-17,VA,Ware Neck (Gloucester Courthouse),Ditchley Road and Gill Lane,1,3,23061
+980,2016-01-11,DE,Wilmington,900 block of Brown Street,1,4,19805
+981,2016-01-08,DC,Washington,1700 East Capitol Street Northeast,0,4,20003
+982,2016-01-08,IL,Chicago,1500 block of South Kedzie,1,4,60623
+983,2016-01-07,TN,Memphis,3800 block of Kerwood Avenue,1,3,38128
+984,2016-01-06,FL,Lakeland,2312 East Magnolia Street,3,1,33801
+985,2017-12-31,CO,Littleton (Highlands Ranch),3404 E County Line Rd,2,6,80126
+986,2017-12-31,IL,Chicago,2335 Howard St,0,4,60645
+987,2017-12-31,NJ,Long Branch,635 Wall St,4,0,07740
+988,2017-12-27,NV,Las Vegas,3750 E Bonanza Rd,2,2,89110
+989,2017-12-26,FL,Miami,NW 18th Ave and 86th Ter,0,5,33147
+990,2017-12-24,MS,Vicksburg,1111 Mulberry Street,0,5,39183
+991,2017-12-24,AL,Troy,100 block of Chapman St,1,4,36081
+992,2017-12-23,LA,Eunice,100 block of City Avenue,1,3,70535
+993,2017-12-23,AL,Birmingham,3rd Ave N and 9th St N,0,4,35203
+994,2017-12-21,LA,Lafayette,1500 block of N University Avenue,0,4,70506
+995,2017-12-21,PA,Philadelphia,6600 block of Dorel St,1,3,19142
+997,2017-12-15,CA,Pacoima,13041 Jouett Street,0,5,91331
+998,2017-12-13,OH,Columbus,200 block of E Barthman Ave,1,3,43207
+999,2017-12-12,KY,Louisville,17th and Gallagher Streets,0,4,40210
+1000,2017-12-12,TX,Garland,1301 Rivercrest Ln,0,4,75040
+1002,2017-12-06,IL,Chicago,4620 N Broadway,0,4,60640
+1003,2017-12-04,PA,Pittsburgh,7200 block of Everton St,2,2,15206
+1004,2017-12-03,TN,Memphis,656 Marshall Ave,1,3,38103
+1005,2017-12-02,MI,Detroit,5200 Woodward Avenue,0,4,48202
+1006,2017-11-30,MI,Detroit,11000 block of Gunston,1,4,48213
+1007,2017-11-24,MS,Brookhaven,119 Martin Street,1,6,39601
+1008,2017-11-24,OH,Cleveland,11618 Buckeye Rd,1,5,44120
+1009,2017-11-18,MN,Minneapolis,3600 block of Emerson Avenue North,0,4,55412
+1010,2017-11-17,LA,New Iberia,900 Block of Mississippi St,0,4,70560
+1011,2017-11-16,GA,Columbus,1400 block of 15th Street,0,7,31901
+1012,2017-11-14,CA,Corning,17357 Stagecoach Rd,6,12,96021
+1013,2017-11-14,CA,Richmond,900 Block of View Dr,2,2,94803
+1014,2017-11-12,IN,Gary,4601 Melton Rd,0,7,46403
+1015,2017-11-12,CA,Fresno,S Calvin Ave,0,5,93725
+1016,2017-11-12,GA,Atlanta,50 Lower Alabama St,2,2,30303
+1017,2017-11-11,TX,Dallas,2532 Martin Luther King Jr Blvd,1,3,75215
+1018,2017-11-11,LA,New Orleans,Forstall Street and Burgundy Street,1,5,70117
+1019,2017-11-11,NC,Fayetteville,2835 Bragg Blvd,1,5,28303
+1020,2017-11-10,OH,Dayton (Trotwood),193 Olive Rd,0,4,45417
+1021,2017-11-09,PA,Philadelphia,1800 block of Ringgold,0,4,19145
+1022,2017-11-05,TX,Sutherland Springs,216 4th St,27,20,78161
+1023,2017-11-04,TX,Austin,N Lamar Blvd and Masterson Pass,0,4,78758
+1024,2017-11-04,OH,Youngstown,2810 Market St,0,4,44507
+1025,2017-11-04,CA,Santa Monica,1515 Ocean Avenue,1,3,90401
+1026,2017-11-03,MN,Minneapolis,10th Ave S and E 24th St,0,4,55404
+1027,2017-11-03,CA,Gardena,E 163rd St and S Main St,0,4,90248
+1028,2017-11-03,NY,Buffalo,147 Roosevelt Ave,0,4,14215
+1029,2017-11-03,LA,Lacombe,27600 block of Mirmar Street,1,4,70445
+1030,2017-10-29,TX,Austin,5500 block of Ave F,1,3,78751
+1031,2017-10-28,OH,Toledo,1327 N Huron St,0,4,43604
+1032,2017-10-28,VA,Petersburg,N Sycamore St and Franklin,1,3,23803
+1033,2017-10-27,KY,Louisville,1716 Prentice St,0,6,40210
+1034,2017-10-27,CA,San Francisco,1100 block of Fillmore,0,4,94115
+1035,2017-10-23,CA,Clearlake Oaks,13000 block of Anchor Village,2,3,95423
+1036,2017-10-22,CT,Hartford,Wethersfield Avenue and Elliott Street,0,4,06114
+1037,2017-10-22,AL,Lanett,1606 19th St Sw,2,7,36863
+1038,2017-10-21,FL,Jacksonville,164 E Eubanks St,0,4,32218
+1039,2017-10-21,TN,Nashville,1277 12th Ave S,0,4,37203
+1040,2017-10-21,PA,Chester,1200 block of W Carlas Ln,0,4,19013
+1041,2017-10-21,FL,Tampa,400 Block of E Nordica St,0,4,33603
+1042,2017-10-18,MD,Edgewood,2111 Emmorton Park Rd,3,3,21040
+1043,2017-10-17,NY,Brooklyn,181 Martense St,0,4,11226
+1045,2017-10-15,TX,Houston,6233 Gulfton St,2,2,77081
+1046,2017-10-15,AZ,Phoenix,107th Ave and Camelback Rd,1,3,85037
+1047,2017-10-12,CA,Aliso Viejo,6 Asbury Ct,2,2,92656
+1048,2017-10-11,OH,Pedro,15497 SR 93,4,0,45659
+1049,2017-10-10,CA,San Francisco,25th St and Treat Ave,0,4,94110
+1050,2017-10-09,TX,Houston,3352 Old Spanish Trail,0,5,77021
+1051,2017-10-07,AZ,Phoenix,87th Ave and Thomas Rd,0,4,85037
+1052,2017-10-06,IL,Chicago,8000 block of S Marshfield,0,5,60620
+1053,2017-10-05,AZ,Casa Grande,400 block of W 13th Street,4,0,85122
+1054,2017-10-03,FL,Miami,2051 NW 65th St,0,4,33147
+1055,2017-10-01,KS,Lawrence,1000 block of Massachusetts St,3,2,66044
+1056,2017-10-01,NV,Las Vegas,3950 Las Vegas Blvd S,59,441,89119
+1057,2017-09-30,TN,Memphis,800 block of Kerr Avenue,1,3,38106
+1058,2017-09-28,LA,New Orleans,2001 N Rocheblave St,1,3,70119
+1059,2017-09-26,PA,Philadelphia,100 block of Pastorius St,1,3,19144
+1060,2017-09-26,TN,Memphis,2531 Chelsea Ave,0,4,38108
+1061,2017-09-26,MD,Baltimore,3200 block of Lyndale Ave,2,2,21213
+1062,2017-09-24,MD,Baltimore,500 block of E. Patapsco Avenue,0,4,21225
+1063,2017-09-24,TN,Antioch,3890 Pin Hook Rd,1,8,37013
+1064,2017-09-24,NY,Syracuse,1226 E Fayette St,0,4,13210
+1065,2017-09-24,NJ,Mays Landing,6000 block of Hoover Dr,1,3,08330
+1066,2017-09-23,CA,Bakersfield,818 Real Rd,1,4,93309
+1067,2017-09-23,IL,Danville,Seminary St and Jackson St,0,5,61832
+1068,2017-09-23,CT,Hartford,1164 Albany Ave,2,2,06112
+1069,2017-09-20,IN,Gary,4300 block of 23rd Ct,0,5,46404
+1070,2017-09-17,MI,Detroit,5000 block of Stanton Street,1,3,48208
+1071,2017-09-17,VA,Petersburg,300 Mistletoe St,1,4,23803
+1072,2017-09-16,SC,Columbia,920 Lady Street,0,8,29201
+1073,2017-09-13,TN,Memphis,1000 block of Morehead St,1,5,38107
+1074,2017-09-13,WA,Rockford,14626 S Jackson Rd,1,3,99030
+1075,2017-09-13,PA,York,400 block of S Duke St,0,4,17401
+1076,2017-09-13,PA,Philadelphia,3100 block of N 2nd St,0,4,19133
+1077,2017-09-10,LA,New Orleans,2101 N Claiborne Ave,1,3,70116
+1078,2017-09-10,TX,Plano,1712 West Spring Creek Parkway,9,1,75023
+1079,2017-09-09,AL,Selma,Kings Bend Road,0,4,36701
+1080,2017-09-06,IL,Chicago,2700 block of Madison,0,4,60612
+1081,2017-09-04,IL,Bellwood,1000 block of Bellwood Ave,0,4,60104
+1082,2017-09-03,CA,Inglewood,10100 block of S Firmona Ave,2,3,90304
+1083,2017-09-02,KY,Louisville,8008 Watterson Trl,0,4,40291
+1084,2017-09-02,IL,Chicago,8300 block of S Hermitage,1,3,60620
+1085,2017-08-28,NM,Clovis,701 N Main St,2,4,88101
+1086,2017-08-27,CA,Sacramento,7760 24th St,1,4,95832
+1087,2017-08-27,IN,Evansville,1127 Chestnut St,1,3,47713
+1088,2017-08-25,FL,Gainesville,1600 NE 8th Ave,0,4,32603
+1089,2017-08-24,MO,Saint Louis,10400 block of Balmoral Dr,4,0,63137
+1090,2017-08-22,IL,Chicago,300 block of N Central Ave,0,4,60644
+1092,2017-08-21,NC,Whitakers,980 Fishing Creek Rd,4,0,27891
+1093,2017-08-21,NJ,Newark,700 block of S 19th St,1,3,07103
+1094,2017-08-21,MD,Baltimore,Cottage Avenue and Park Heights Avenue,1,3,21215
+1095,2017-08-21,TN,Memphis,262 Decatur St,0,4,38105
+1096,2017-08-20,NY,Brooklyn,100th St and Ave M,0,4,11236
+1097,2017-08-20,IL,Chicago,11901 S Loomis St,2,5,60643
+1098,2017-08-19,OH,Cleveland,11143 Superior Ave,1,4,44106
+1099,2017-08-16,NY,Wyandanch,Merritt Ave and 15th St,0,4,11798
+1100,2017-08-14,CA,North Hollywood,Morrison St and Klump Ave,2,2,91601
+1101,2017-08-13,PA,Philadelphia,39th St and Melon St,0,5,19104
+1102,2017-08-13,CA,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4,95820
+1103,2017-08-13,VA,Suffolk,8700 block of Quay Rd,0,4,23437
+1104,2017-08-12,MO,Saint Louis,12310 Bellefontaine Rd,1,3,63138
+1105,2017-08-08,IL,Chicago,1 block of East 37th St,1,6,60653
+1106,2017-08-06,NY,Bronx,Wickham Ave,0,6,10469
+1108,2017-08-06,CA,Oakland,1000 block of 106th Avenue,0,7,94603
+1109,2017-08-05,NJ,Lakewood,900 block of Brook Road,0,4,08701
+1110,2017-08-05,SC,Allendale,300 block of Ellis St,1,3,29810
+1111,2017-08-05,FL,Tallahassee,1939 W Tennessee St,1,3,32304
+1112,2017-08-04,MT,Lodge Grass,200 block of North Helen Street,3,2,59050
+1113,2017-08-03,DC,Washington,3426 18th St NE,1,3,20018
+1114,2017-08-02,MD,Baltimore,900 block of N Broadway,0,4,21205
+1115,2017-08-01,IL,Chicago,800 block of N Monticello Ave,0,4,60651
+1116,2017-08-01,WA,Toppenish,8000 Block of Lateral C Rd,0,6,98948
+1117,2017-08-01,CA,Fresno,Mariposa St and A St,0,7,93706
+1118,2017-07-31,IL,Decatur,Jasper St and Main St,0,4,62521
+1119,2017-07-30,VA,Norfolk,1500 block of Azalea Garden Rd,1,5,23502
+1120,2017-07-30,TX,El Paso,1810 George Dieter Dr,1,3,79936
+1121,2017-07-29,NY,Buffalo,200 block of Carl St,1,4,14215
+1122,2017-07-29,NC,Salisbury,115 W Fisher St,2,3,28144
+1123,2017-07-28,DE,Wilmington,400 block of N Washington St,0,4,19801
+1124,2017-07-27,IL,Chicago,2000 block of E 71st St,1,4,60649
+1125,2017-07-26,NC,High Point,2111 E. Green Drive,1,6,27260
+1126,2017-07-25,FL,Jacksonville,1040 Golfair Boulevard,1,3,32209
+1127,2017-07-23,IL,Chicago,1500 block of East 82nd St,1,3,60619
+1128,2017-07-23,LA,Baton Rouge,10360 Ave H,0,4,70807
+1129,2017-07-22,OH,Cincinnati,130 E Clifton Ave,0,5,45202
+1130,2017-07-19,VA,Richmond,2300 block of Bethel St,0,5,23223
+1131,2017-07-19,CA,Los Angeles,Imperial Hwy and Broadway,1,3,90061
+1132,2017-07-18,WI,Milwaukee,3000 block of N 39th St,0,4,53210
+1133,2017-07-18,NJ,Trenton,Hewitt St and Division St,1,3,08611
+1134,2017-07-18,AZ,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4,85335
+1135,2017-07-15,PA,Philadelphia,21st and Fitzwater,1,3,19146
+1136,2017-07-15,IL,Chicago,12200 block of S Throop St,0,4,60643
+1137,2017-07-09,VA,Lawrenceville,500 block of Sturgeon Rd,0,7,23868
+1138,2017-07-08,IL,Alton,700 block of Oakwood Ave,0,4,62024
+1139,2017-07-08,OH,Cincinnati,9917 Capstan Dr,1,8,45251
+1140,2017-07-06,MS,Meridian,Eighth Ave,0,4,39301
+1141,2017-07-05,GA,Savannah,Jefferson Street and West St. Julian Street,0,4,31401
+1142,2017-07-05,IL,Chicago (Roseland),11000 block of S Eberhart,2,2,60628
+1143,2017-07-05,ME,Madison,300 block of Russell Rd,4,1,04950
+1144,2017-07-04,FL,Orlando (Pine Castle),501 W Lancaster Rd,0,4,32809
+1145,2017-07-04,VA,Hampton,500 block of Patterson Ave,1,4,23669
+1146,2017-07-04,NC,Raleigh,105 E South St,1,3,27601
+1147,2017-07-03,AL,Prattville,112 US 82,3,1,36067
+1148,2017-07-03,MI,Pontiac,50 block of Thorpe St,1,3,48341
+1149,2017-07-02,NJ,Jersey City,Wilkinson Avenue,0,4,07305
+1151,2017-07-01,IL,Momence,2727 S 13000 Rd E,0,4,60954
+1152,2017-07-01,NJ,Newark,Lincoln Park and Pennsylvania Avenue,2,2,07102
+1153,2017-07-01,CA,Oakland,3200 Humboldt Ave,0,4,94602
+1154,2017-07-01,AR,Little Rock,220 W 6th St,0,25,72201
+1155,2017-06-30,NY,Bronx,1650 Grand Concourse,2,6,10457
+1156,2017-06-27,IL,Chicago,200 block of S Lotus,0,5,60644
+1157,2017-06-25,DC,Washington,5900 block of Southern Ave SE,0,4,20019
+1158,2017-06-25,MO,Saint Louis,5000 block of Thekla Ave,1,3,63115
+1159,2017-06-24,FL,Fort Lauderdale,2335 NW 16th Ct,1,4,33311
+1160,2017-06-24,NY,New York (Manhattan),114th St and Manhattan Ave,0,5,10026
+1161,2017-06-24,NJ,Willingboro,Pastoral Lane,0,4,08046
+1162,2017-06-22,GA,Atlanta,1100 block of Osborne Street,1,6,30310
+1163,2017-06-18,MO,Saint Louis,1900 block of N 14th St,3,2,63106
+1164,2017-06-18,DC,Washington,3100 block of Buena Vista Terrace SE,0,4,20020
+1165,2017-06-18,IL,Chicago,3300 block of W Crystal St,0,4,60651
+1166,2017-06-18,SC,Myrtle Beach,311 N Ocean Blvd,0,7,29575
+1167,2017-06-17,IL,Chicago,1 block of N Latrobe,0,4,60644
+1168,2017-06-17,OH,Columbus,6252 Busch Blvd,1,4,43229
+1169,2017-06-15,VA,Richmond,4053 Old Brook Road,1,3,23227
+1170,2017-06-15,NM,La Madera,491 NM 111,5,0,87539
+1171,2017-06-14,VA,Alexandria,420 E Monroe Ave,1,5,22301
+1172,2017-06-14,OH,Canton,14th St NE and Gibbs Ave NE,0,4,44714
+1173,2017-06-14,CA,San Francisco,720 San Bruno,4,2,94107
+1174,2017-06-13,MD,Baltimore,3300 block of Ayrdale Avenue,0,4,21216
+1175,2017-06-13,MD,Baltimore,1200 block of Bonaparte Avenue,2,2,21218
+1176,2017-06-13,MO,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4,63130
+1177,2017-06-11,IL,Chicago,3300 block of W Douglas Blvd,0,9,60623
+1178,2017-06-11,TN,Chattanooga,4272 Bonny Oaks Drive,0,4,37406
+1179,2017-06-11,TX,Houston,505 Cypress Station Dr,0,4,77090
+1180,2017-06-10,TN,Memphis,571 East Street,0,4,38104
+1181,2017-06-09,TX,Fort Worth,East Davis Avenue and New York Avenue,2,5,76104
+1182,2017-06-08,LA,New Orleans,3650 Franklin Ave,0,6,70122
+1183,2017-06-06,UT,Sandy,2232 Alta Canyon Drive,3,2,84093
+1184,2017-06-05,FL,Orlando,2427 Forsyth Rd,6,0,32807
+1185,2017-06-03,MO,Saint Louis,1600 Block of Union Blvd,2,2,63113
+1186,2017-06-03,LA,New Orleans,3717 Tulane Ave,3,2,70119
+1187,2017-06-02,CA,Los Angeles,89th St and Broadway,1,3,90003
+1188,2017-06-02,TX,Laredo,5301 McPherson Rd,2,3,78041
+1189,2017-06-01,MO,Saint Louis,Beacon Ave and Lillian Ave,3,1,63120
+1190,2017-05-30,OH,Middletown,1200 Elliott Dr,1,3,45044
+1191,2017-05-29,KY,Louisville,231 Witherspoon St,1,3,40202
+1192,2017-05-28,AL,Phenix City,100 block of 6th Street South,0,12,36869
+1193,2017-05-28,NJ,Paterson,86 Main Street,1,5,07505
+1194,2017-05-28,MS,Moss Point,6103 Hwy. 63,0,5,39563
+1195,2017-05-27,NY,New York (Manhattan),318 W 14th St,0,4,10014
+1196,2017-05-27,DC,Washington,100 block of Q Street Northwest,1,7,20001
+1197,2017-05-27,MS,Bogue Chitto,2871 Lee Dr,8,1,39629
+1198,2017-05-26,FL,Miami,2730 NW 167th St,0,4,33054
+1199,2017-05-21,IA,Des Moines,4300 Beaver Dr,1,3,50310
+1200,2017-05-21,AZ,Mesa,441 N Val Vista Dr,0,4,85213
+1201,2017-05-20,PA,Philadelphia,2100 block of W Huntingdon St,0,10,19132
+1202,2017-05-16,SC,Ruffin,21785 Lowcountry Hwy,3,1,29475
+1203,2017-05-14,AR,Jonesboro,311 S Main St,1,6,72401
+1204,2017-05-14,IL,Dolton,14112 Chicago Road,0,5,60419
+1205,2017-05-14,FL,Avon Park,Hal McRae Blvd and Delaney Ave,0,5,33825
+1206,2017-05-14,TX,Fort Worth,8600 block of Calmont Ave,0,4,76116
+1207,2017-05-10,NJ,Trenton,300 block of Centre St,1,3,08611
+1208,2017-05-09,KS,Kansas City,1900 block of S. Boeke,3,1,66103
+1209,2017-05-07,IL,Chicago,2600 block of 46th Pl,2,8,60632
+1210,2017-05-04,MI,Flint,600 block of Copeman Boulevard,1,3,48503
+1211,2017-05-02,FL,Jacksonville,1566 West 24th Street,1,3,32209
+1212,2017-05-01,TX,Dallas,3200 block of Reynolds Ave,2,3,75223
+1213,2017-04-30,CA,San Diego,9080 Judicial Dr,2,6,92122
+1214,2017-04-30,KS,Topeka,4104 SW 28th,4,1,66614
+1216,2017-04-30,SC,Loris,268 N Sea Green Rd,1,5,29569
+1217,2017-04-29,CA,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3,90033
+1218,2017-04-29,CA,Sacramento,3800 block of 26th Avenue,0,5,95820
+1219,2017-04-29,CA,Whittier,10000 block of Carmentia Rd,1,5,90605
+1220,2017-04-29,MD,Germantown,12839 Kitchen House Way,1,3,20874
+1221,2017-04-29,CA,Compton,2000 Block of N Nestor Ave,0,4,90222
+1222,2017-04-29,VA,Virginia Beach,200 block of 18th St,0,4,23451
+1223,2017-04-28,PA,Chester,5 E 21st St,0,4,19013
+1224,2017-04-27,NJ,Newark,1100 block of S Orange Ave,1,3,07106
+1225,2017-04-26,FL,Miami,SW 264th St and 139th Ave,0,4,33032
+1226,2017-04-21,FL,Palm Bay,2500 block of Vernon Dr,2,2,32905
+1227,2017-04-20,KY,Louisville,700 block of East Jacob Street,0,4,40203
+1228,2017-04-16,CA,Vallejo,110 Calhoun Street,0,4,94590
+1229,2017-04-16,NC,Elizabeth City,611 S Martin St,0,4,27909
+1230,2017-04-16,OH,Columbus,1710 Cleveland Av,0,9,43211
+1231,2017-04-15,IL,Rock Falls,311 W  2nd St,0,4,61071
+1232,2017-04-15,PA,Philadelphia,5900 block of Hammond St,0,4,19120
+1233,2017-04-15,IN,Indianapolis,300 block of S Meridian St,0,4,46225
+1234,2017-04-15,AL,Birmingham,1480 Center Point Pkwy,0,6,35215
+1235,2017-04-15,IL,Harvey,14600 block of Myrtle Avenue,0,4,60426
+1236,2017-04-15,CA,Banning,900 block of N Allen St,0,4,92220
+1237,2017-04-13,GA,Atlanta,30 Anderson Ave SW,1,3,30314
+1238,2017-04-09,TX,San Antonio,3100 block of Fidelia Drive,1,3,78224
+1239,2017-04-09,IN,Fort Wayne,9439 Lima Rd,1,3,46818
+1240,2017-04-07,NC,Hickory,1423 29th Ave Dr NE,3,1,28601
+1241,2017-04-07,TX,Houston,3829 Mount Pleasant St,5,0,77021
+1242,2017-04-07,MN,Saint Paul,1600 block of English St,4,1,55109
+1243,2017-04-07,IL,Chicago,5600 block of W Lake St,1,5,60644
+1244,2017-04-06,LA,Lake Charles,2000 block of Tulip St,1,3,70601
+1245,2017-04-03,PA,Philadelphia,1100 block of W Stiles St,3,1,19122
+1246,2017-04-03,TX,Lubbock,5401 Ave Q,0,7,79412
+1247,2017-04-02,IL,Chicago,3500 block of W Van Buren St,2,4,60624
+1248,2017-04-02,IA,Des Moines,2500 Martin Luther King Jr. Parkway,0,5,50310
+1249,2017-04-01,CA,Pittsburg,100 block of Madoline Street,0,5,94565
+1250,2017-04-01,FL,Tampa,219 S Howard Ave,1,4,33606
+1251,2017-04-01,OK,Oklahoma City,1200 block of N Woodward Avenue,2,3,73107
+1252,2017-03-30,IL,Chicago,2704 E 75th St,4,0,60649
+1253,2017-03-27,FL,Sanford,209 Hays Dr,2,4,32771
+1254,2017-03-26,OH,Cleveland,E 75th St,2,2,44103
+1255,2017-03-26,TX,Houston,5619 Aldine Bender Rd,2,4,77032
+1256,2017-03-26,OH,Cincinnati,4601 Kellogg Ave,2,15,45226
+1257,2017-03-25,TN,Knoxville,Minnesota Ave,1,4,37921
+1258,2017-03-25,MI,Detroit,8443 Grand River Ave,1,3,48204
+1259,2017-03-25,OH,Cleveland,E 79th St and Woodland Ave,2,2,44104
+1260,2017-03-24,CA,Fresno,300 block of South Villa Avenue,1,4,93727
+1261,2017-03-24,MO,Saint Louis,5100 block of Palm St,1,6,63115
+1262,2017-03-22,WI,Rothschild,1133 E Grand Ave,5,0,54474
+1263,2017-03-19,KY,Louisville,1512 Portland Avenue,1,5,40203
+1264,2017-03-18,MI,Detroit,16000 block of Rutherford,3,2,48227
+1265,2017-03-15,LA,Metairie,2508 Pasadena Ave,3,1,70001
+1266,2017-03-10,IL,Chicago,123 E 51st St,2,2,60615
+1267,2017-03-10,LA,New Orleans (Gentilly),4200 block of Touro St,3,1,70122
+1268,2017-03-07,IL,Chicago,W 76th St and S May St,0,4,60620
+1269,2017-03-05,GA,Columbus,600 block of 32nd Street,0,4,31904
+1270,2017-03-04,KS,Topeka,23rd and Bellview,1,4,66605
+1271,2017-03-04,CA,Sacramento,2500 block of 33rd St,0,4,95817
+1272,2017-03-03,PA,Philadelphia,7165 Germantown Ave,0,4,19119
+1273,2017-03-03,CA,Riverside,8300 block of Trey Ave,0,5,92503
+1274,2017-02-28,OH,Cincinnati,1700 of Casey Dr,0,6,45223
+1275,2017-02-27,VA,Newport News,11810 Fountain Way,0,4,23606
+1276,2017-02-26,IN,Gary,1700 Grant St,1,4,46404
+1277,2017-02-25,OH,Warren,1564 Niles Cortland Rd SE,2,3,44484
+1278,2017-02-25,FL,Jacksonville,3604 Moncrief Rd,1,4,32209
+1279,2017-02-22,NY,Rochester,191 Genesee St,0,4,14611
+1280,2017-02-21,OH,Cleveland,16700 Lorain Ave,0,4,44111
+1281,2017-02-21,MS,Toomsuba,Butts Road,4,0,39364
+1282,2017-02-20,OH,Cleveland,1082 East 105th Street,0,5,44108
+1283,2017-02-19,VA,Norfolk,Church Street and East Virginia Beach Blvd,1,3,23504
+1284,2017-02-18,PA,Philadelphia,1 block of N Conestoga,0,4,19139
+1285,2017-02-18,IN,South Bend,1000 block of Yukon St,1,3,46616
+1286,2017-02-15,CA,Salinas,30 Soledad Street,0,4,93901
+1287,2017-02-15,IL,Chicago,3949 South Albany Avenue,3,2,60632
+1288,2017-02-12,MO,Caruthersville,908 Truman Blvd,1,6,63830
+1289,2017-02-12,NY,Newburgh,253 South William Street,1,3,12550
+1290,2017-02-12,FL,Greenville,Church Ave and Obadiah St,0,5,32331
+1291,2017-02-11,IL,Chicago,100 block of N Mayfield,1,3,60644
+1292,2017-02-11,TN,Savannah,Clifton Road and Midway Drive,0,4,38372
+1293,2017-02-10,LA,New Orleans,2nd St and Dryades St,1,5,70113
+1294,2017-02-09,MS,Jackson,3150 Robinson Road,4,0,39209
+1295,2017-02-08,OH,Cleveland,16379 Euclid Ave,1,4,44112
+1296,2017-02-07,SC,Columbia,5500 block of Fairfield Road,0,4,29203
+1297,2017-02-07,AR,Little Rock,25 Par Drive,1,4,72210
+1298,2017-02-06,MS,Yazoo City,11th Street,4,0,39194
+1299,2017-01-31,TN,Memphis,1576 S White Station Rd,0,4,38117
+1300,2017-01-31,DC,Washington,2900 block of Martin Luther King Jr Ave,0,4,20032
+1301,2017-01-30,MN,Minneapolis (Crystal),5410 Lakeland Ave N,0,4,55429
+1302,2017-01-29,LA,Shreveport,6363 Hearne Ave,1,4,71108
+1304,2017-01-27,TN,Brownsville,221 Morgan St,0,10,38012
+1305,2017-01-26,GA,Albany,1510 Maryland Drive,2,3,31707
+1306,2017-01-25,IL,Chicago,500 block of E 75th St,0,6,60619
+1308,2017-01-22,IL,Chicago (Englewood),1800 block of W 63rd,0,4,60636
+1309,2017-01-22,GA,Atlanta,2841 Greenbriar Pkwy SW,3,1,30331
+1310,2017-01-21,GA,Jonesboro,6510 Tara Blvd,0,6,30236
+1311,2017-01-21,FL,Boynton Beach,500 NE 2nd St,0,5,33435
+1312,2017-01-21,TN,Memphis,500 block of Delta Road,2,2,38109
+1314,2017-01-20,CA,Fresno,4700 block of E Montecito Ave,0,4,93702
+1315,2017-01-16,TX,Houston,8535 Martin Luther King Boulevard,0,4,77033
+1316,2017-01-16,FL,Miami,6011 NW 32nd Ave,0,8,33142
+1318,2017-01-15,MS,Magnolia,6000 block of Church Road,1,4,39652
+1319,2017-01-12,MO,Kansas City,8607 E 61st Terrace,3,2,64129
+1320,2017-01-12,CA,Salinas,500 block of Sunrise St,2,2,93905
+1321,2017-01-11,NJ,Newark,Hawkins Street and Christie Street,1,3,07105
+1322,2017-01-11,IL,Chicago,4200 block of S Talman,1,3,60632
+1323,2017-01-07,MI,Flint,2500 block of Churchill Ave,1,3,48506
+1324,2017-01-06,CA,Pasadena,100 block of W Claremont St,2,2,91103
+1325,2017-01-06,FL,Fort Lauderdale,100 Terminal Dr,5,6,33315
+1326,2017-01-04,CA,Fontana,14520 Village Drive,3,1,92337
+1327,2017-01-03,TX,Allen,500 block of Hawthorne Drive,0,4,75002
+1328,2017-01-01,MS,Winstonville,114 North Greyer Street,0,5,38781
+1329,2017-01-01,TX,Dallas,9220 Skillman Street,1,3,75243
+1330,2017-01-01,FL,Miami,8000 block of NW 14th Ave,0,7,33147
