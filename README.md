@@ -8,6 +8,6 @@ Analsysis and data cleaning files make up most of the documents. Data file conta
 
 ### Build
 
--Analysis and data cleaning done using python, pandas, numpy and jupyter notebook. 
--Visualizations done using matplotlib, geojson and gmaps.
--US Census data collected using the US Census API and census API wrapper.
+- Analysis and data cleaning done using python, pandas, numpy and jupyter notebook. 
+- Visualizations done using matplotlib, geojson and gmaps.
+- US Census data collected using the US Census API and census API wrapper.
